@@ -1,0 +1,170 @@
+#!/usr/bin/env python3
+
+import os
+import sys
+import time
+
+import arrow
+import matplotlib.pyplot as plt
+plt.rcParams.update({'font.family': 'Consolas', 'font.size': 14})
+
+from lib import auth
+from lib.config import NUMERIC_DIR, PLOTS_DIR, logger
+
+
+global youtube
+
+
+class LivestreamEndedError(Exception):
+    def __init__(self, video_id, end_time):
+        super().__init__()
+        self.video_id = video_id
+        self.end_time = end_time
+
+    def __str__(self):
+        return f'{self.video_id} has ended on {self.end_time}'
+
+
+def log_exception(exc, msg):
+    logger.error(f'{msg}: {exc.__class__.__name__}: {exc}')
+
+
+def get_current_live_video_id(channel_id):
+    try:
+        response = youtube.search().list(
+            part='id',
+            channelId=channel_id,
+            type='video',
+            eventType='live',
+        ).execute()
+        items = response['items']
+        if items:
+            video_id = items[0]['id']['videoId']
+            logger.info(f'found livestream: https://youtu.be/{video_id}')
+            return video_id
+        else:
+            logger.warning('no livestream at the moment')
+            return None
+    except Exception as exc:
+        log_exception(exc, 'failed to search for current livestream')
+        return None
+
+
+def get_live_viewership(video_id):
+    try:
+        response = youtube.videos().list(
+            part='liveStreamingDetails',
+            id=video_id,
+            maxResults=50,
+        ).execute()
+        live_details = response['items'][0]['liveStreamingDetails']
+        if 'concurrentViewers' not in live_details:
+            if 'actualEndTime' in live_details:
+                raise LivestreamEndedError(video_id, live_details['actualEndTime'])
+            elif 'actualStartTime' in live_details:
+                logger.error(f'{video_id} is live, but concurrentViewers is not available')
+                return None
+            else:
+                logger.error(f'{video_id} is not live')
+                return None
+        return live_details['concurrentViewers']
+    except Exception as exc:
+        log_exception(exc, 'failed to extract concurrentViewers of livestream')
+        return None
+
+
+def get_start_time(video_id):
+    try:
+        response = youtube.videos().list(
+            part='liveStreamingDetails',
+            id=video_id,
+            maxResults=50,
+        ).execute()
+        return arrow.get(response['items'][0]['liveStreamingDetails']['actualStartTime'])
+    except Exception as exc:
+        log_exception(exc, 'failed to extract concurrentViewers of livestream')
+        return None
+
+
+def plot(video_id, logfile):
+    start_time = get_start_time(video_id)
+    start_time_str = start_time.to('Asia/Shanghai').strftime('%Y-%m-%dT%H:%M%z')
+    data = []
+    peak_offset = 0
+    peak_count = 0
+    peak_offset_seconds = 0
+    with open(logfile) as fp:
+        for line in fp:
+            timestamp, count = line.split()
+            timestamp = int(timestamp)
+            count = int(count)
+            offset = int((timestamp - start_time.timestamp) / 60)
+            data.append((offset, count))
+            if count > peak_count:
+                peak_count = count
+                peak_offset = offset
+                peak_offset_seconds = int(timestamp - start_time.timestamp)
+    plt.figure(figsize=(15, 10))
+    plt.plot(*zip(*data), linewidth=1, color='green')
+    plt.xlim(xmin=0, xmax=max(offset for offset, _ in data))
+    plt.ylim(ymin=0)
+    plt.axvline(x=peak_offset, ymax=peak_count / plt.ylim()[1], linewidth=1, color='red')
+    plt.text(peak_offset + 1, peak_count + 1, f'Peak: {peak_count}', color='red')
+    plt.xlabel('Time since start (minutes)')
+    plt.ylabel('Concurrent viewer count')
+    plt.title(f'Live viewership curve for youtu.be/{video_id}\nStart time: {start_time_str}')
+    for ext in ('.svg', '.png'):
+        path = PLOTS_DIR.joinpath(video_id).with_suffix(ext)
+        plt.savefig(os.fspath(path), dpi=120, bbox_inches='tight')
+        logger.info(f'Generated image: {path}')
+    logger.info(f'Peak: https://youtu.be/{video_id}?t={peak_offset_seconds}')
+
+
+def main():
+    parser = auth.ArgumentParser()
+    subparsers = parser.add_subparsers()
+    parser.add_argument('--channel', default='UClwRU9iNX7UbzyuVzvZTSkA', help='channel id')
+    plot_parser = subparsers.add_parser('plot', help='plot with existing data')
+    plot_parser.add_argument('video_ids', nargs='+', metavar='video_id')
+    plot_parser.set_defaults(plot=True)
+    args = parser.parse_args()
+
+    global youtube
+    youtube = auth.get_youtube_client('youtube.readonly', args=args)
+
+    if hasattr(args, 'plot'):
+        for video_id in args.video_ids:
+            logfile = NUMERIC_DIR.joinpath(video_id).with_suffix('.log')
+            plot(video_id, logfile)
+        sys.exit(0)
+
+    video_id = None
+    try:
+        while True:
+            if not video_id:
+                video_id = get_current_live_video_id(args.channel)
+                if not video_id:
+                    time.sleep(300)
+                    continue
+                logfile = NUMERIC_DIR.joinpath(video_id).with_suffix('.log')
+
+            time.sleep(60 - time.time() % 60)
+            now = int(time.time())
+            try:
+                viewership = get_live_viewership(video_id)
+            except LivestreamEndedError as exc:
+                logger.info(exc)
+                plot(video_id, logfile)
+                video_id = None
+                logfile = None
+            else:
+                if viewership is not None:
+                    print(now, viewership)
+                    with open(logfile, 'a') as fp:
+                        print(now, viewership, file=fp)
+    except KeyboardInterrupt:
+        pass
+
+
+if __name__ == '__main__':
+    main()
