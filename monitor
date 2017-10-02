@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 plt.rcParams.update({'font.family': 'Consolas', 'font.size': 14})
 
 from lib import auth
-from lib.config import NUMERIC_DIR, PLOTS_DIR, logger
+from lib.config import VIEWERS_DIR, PLOTS_DIR, logger
 
 
 global youtube
@@ -134,7 +134,7 @@ def main():
 
     if hasattr(args, 'plot'):
         for video_id in args.video_ids:
-            logfile = NUMERIC_DIR.joinpath(video_id).with_suffix('.log')
+            logfile = VIEWERS_DIR.joinpath(video_id).with_suffix('.log')
             plot(video_id, logfile)
         sys.exit(0)
 
@@ -146,7 +146,7 @@ def main():
                 if not video_id:
                     time.sleep(300)
                     continue
-                logfile = NUMERIC_DIR.joinpath(video_id).with_suffix('.log')
+                logfile = VIEWERS_DIR.joinpath(video_id).with_suffix('.log')
 
             time.sleep(60 - time.time() % 60)
             now = int(time.time())
