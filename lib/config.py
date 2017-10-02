@@ -14,7 +14,7 @@ for directory in (CONFIGS_DIR, DATA_DIR, NUMERIC_DIR, PLOTS_DIR):
 del directory
 
 _default_fmt = '[%(asctime)s] %(levelname)s: %(message)s'
-_default_datefmt = '%Y-%m-%d %H:%M:%S'
+_default_datefmt = '%Y-%m-%dT%H:%M:%S'
 _handler = logging.StreamHandler()
 _handler.setFormatter(logging.Formatter(
     fmt=_default_fmt,

@@ -159,7 +159,7 @@ def main():
                 logfile = None
             else:
                 if viewership is not None:
-                    print(now, viewership)
+                    print(video_id, arrow.get(now).to('Asia/Shanghai'), viewership)
                     with open(logfile, 'a') as fp:
                         print(now, viewership, file=fp)
     except KeyboardInterrupt:
