@@ -1,3 +1,20 @@
+{% macro render_pagination(pagination) -%}
+<div class="pagination">
+  <span>Page</span>
+  {% for page in pagination.iter_pages() -%}
+    {% if page -%}
+      {% if page != pagination.page -%}
+        <a href="{{ url_for('index', page=page) }}">{{ page }}</a>
+      {% else -%}
+        <strong>{{ page }}</strong>
+      {% endif -%}
+    {% else -%}
+      <span>…</span>
+    {% endif -%}
+  {% endfor -%}
+</div>
+{% endmacro -%}
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -5,9 +22,11 @@
   <meta content="width=device-width,initial-scale=1" name="viewport">
   <title>SNH48 official livestreams data</title>
   <style>
-    body { margin: 0; font-family: "Times New Roman", Times, "Songti SC", SimSun, serif; }
+    body { display: flex; min-height: 100vh; flex-direction: column; margin: 0; font-family: "Times New Roman", Times, "Songti SC", SimSun, serif; }
+    main { flex: 1; }
     h1 { text-align: center; font-size: 30px; margin: 40px 20px 20px 20px; }
     a { color: blue; text-decoration: none; }
+    .pagination { margin: 20px auto 0 auto; text-align: center; font-size: 16px; }
     .stream-grid { width: 100%; max-width: 1920px; display: grid; justify-content: center; grid-template-columns: repeat(auto-fill, 620px); grid-gap: 10px; margin: 10px auto; }
     .stream { display: flex; flex-direction: column; box-sizing: border-box; padding: 9px; width: 620px; border: 1px solid #ddd; }
     .stream:hover { background: #eee; }
@@ -34,31 +53,34 @@
 </head>
 <body>
   <h1>SNH48 official livestreams data</h1>
-  <div class="stream-grid">
-    {% for stream in streams -%}
-    <div class="stream">
-      <span class="stream-link"><a href="https://youtu.be/{{ stream.video_id }}" target="_blank">youtu.be/{{ stream.video_id }}</a></span>
-      <span class="stream-timing"><time datetime="{{ stream.start_time }}">{{ stream.start_time|formatdatetime }}</time> &ndash; <time datetime="{{ stream.end_time }}">{{ stream.end_time|formatdatetime }}</time></span>
-      <div class="events">
-        {% for event in stream.events -%}
-        <div class="event-thumbnail-container">
-          <img class="event-thumbnail" src="{{ event.thumbnail_url }}" alt="{{ event.title }}">
-          <time class="event-datetime" datetime="{{ event.datetime }}">{{ event.datetime|formatdatetime }}</time>
+  <main>
+    <div class="stream-grid">
+      {% for stream in streams -%}
+      <div class="stream">
+        <span class="stream-link"><a href="https://youtu.be/{{ stream.video_id }}" target="_blank">youtu.be/{{ stream.video_id }}</a></span>
+        <span class="stream-timing"><time datetime="{{ stream.start_time }}">{{ stream.start_time|formatdatetime }}</time> &ndash; <time datetime="{{ stream.end_time }}">{{ stream.end_time|formatdatetime }}</time></span>
+        <div class="events">
+          {% for event in stream.events -%}
+          <div class="event-thumbnail-container">
+            <img class="event-thumbnail" src="{{ event.thumbnail_url }}" alt="{{ event.title }}">
+            <time class="event-datetime" datetime="{{ event.datetime }}">{{ event.datetime|formatdatetime }}</time>
+          </div>
+          <span class="event-title{% if event.title.startswith('《') %} leftshift{% endif %}">{{ event.title }}</span>
+          <span class="event-subtitle{% if event.subtitle.startswith('《') %} leftshift{% endif %}">{{ event.subtitle }}</span>
+          {% endfor -%}
         </div>
-        <span class="event-title{% if event.title.startswith('《') %} leftshift{% endif %}">{{ event.title }}</span>
-        <span class="event-subtitle{% if event.subtitle.startswith('《') %} leftshift{% endif %}">{{ event.subtitle }}</span>
-        {% endfor -%}
+        <div class="spacer"></div>
+        <img class="stream-plot" src={{ url_for('plot', filename=stream.plot) }} alt="Live viewership curve for {{ stream.video_id }}">
+        <div class="stream-annotation">Peak: <span class="peak-value">{{ stream.peak_viewers }}</span> viewers at <a href="https://youtu.be/{{ stream.video_id }}?t={{ stream.peak_offset }}" target="_blank">{{ stream.peak_offset|formatoffset }}</a><br><a href="{{ url_for('transcript_html', video_id=stream.video_id) }}" target="_blank"><small>Transcript</small></a></div>
       </div>
-      <div class="spacer"></div>
-      <img class="stream-plot" src={{ url_for('plot', filename=stream.plot) }} alt="Live viewership curve for {{ stream.video_id }}">
-      <div class="stream-annotation">Peak: <span class="peak-value">{{ stream.peak_viewers }}</span> viewers at <a href="https://youtu.be/{{ stream.video_id }}?t={{ stream.peak_offset }}" target="_blank">{{ stream.peak_offset|formatoffset }}</a><br><a href="{{ url_for('transcript_html', video_id=stream.video_id) }}" target="_blank"><small>Transcript</small></a></div>
+      {% endfor -%}
     </div>
-    {% endfor -%}
-  </div>
+  </main>
+  {{ render_pagination(pagination)|indent(2)|safe }}
   <footer>&copy; 2017 <a href="https://snh48live.org">SNH48 Live</a> · <a href="https://www.youtube.com/SNH48Live" target="_blank">YouTube</a> · 源代码见<a href="https://github.com/SNH48Live/official-livestreams" target="_blank">GitHub</a></footer>
 </body>
 </html>
 
-{# Local Variables: #}
-{# mode: jinja2 #}
-{# End: #}
+{#- Local Variables: -#}
+{#- mode: jinja2 -#}
+{#- End: -#}

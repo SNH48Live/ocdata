@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import json
+import math
 import mimetypes
 import os
 
@@ -13,6 +14,55 @@ from lib.config import INDEX, METADATA_DIR, PLOTS_DIR, TRANSCRIPTS_DIR
 
 
 app = flask.Flask(__name__)
+PER_PAGE = 6
+streams = None
+
+
+def load_streams():
+    global streams
+    streams = []
+    with open(INDEX) as fp:
+        for line in fp:
+            date, video_id = line.split()
+            metadata_file = METADATA_DIR / f'{date}-{video_id}.json'
+            with open(metadata_file) as fmeta:
+                streams.append(attrdict.AttrDict(json.load(fmeta)))
+    streams = list(reversed(streams))
+
+
+load_streams()
+
+
+# Credit: http://flask.pocoo.org/snippets/44/
+class Pagination(object):
+
+    def __init__(self, page, per_page, total):
+        self.page = page
+        self.per_page = per_page
+        self.total = total
+
+    @property
+    def pages(self):
+        return int(math.ceil(self.total / self.per_page))
+
+    @property
+    def has_prev(self):
+        return self.page > 1
+
+    @property
+    def has_next(self):
+        return self.page < self.pages
+
+    # Refer to http://flask-sqlalchemy.pocoo.org/2.3/api/#flask_sqlalchemy.Pagination
+    def iter_pages(self, left_edge=2, left_current=2, right_current=5, right_edge=2):
+        last = 0
+        for num in range(1, self.pages + 1):
+            if ((num <= left_edge or num > self.pages - right_edge or
+                 (num > self.page - left_current - 1 and num < self.page + right_current))):
+                if last + 1 != num:
+                    yield None
+                yield num
+                last = num
 
 
 def get_transcript(video_id, suffix):
@@ -36,16 +86,20 @@ def formatoffset(offset):
     return f'{hours:01d}:{minutes:02d}:{seconds:02d}'
 
 
+# We use an optional argument page here instead of the standard
+#
+#     @app.route('/', defaults=dict(page=1))
+#     @app.route('/<int:page>/')
+#     def index(page):
+#
+# because otherwise Frozen-Flask would refuse to generate /1/.
 @app.route('/')
-def index():
-    streams = []
-    with open(INDEX) as fp:
-        for line in fp:
-            date, video_id = line.split()
-            metadata_file = METADATA_DIR / f'{date}-{video_id}.json'
-            with open(metadata_file) as fmeta:
-                streams.append(attrdict.AttrDict(json.load(fmeta)))
-    return flask.render_template('index.html', streams=list(reversed(streams)))
+@app.route('/<int:page>/')
+def index(page=1):
+    pagination = Pagination(page, PER_PAGE, len(streams))
+    return flask.render_template('index.html',
+                                 pagination=pagination,
+                                 streams=streams[(page - 1) * PER_PAGE : page * PER_PAGE])
 
 
 @app.route('/plot/<filename>')
