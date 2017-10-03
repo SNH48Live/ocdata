@@ -1,6 +1,6 @@
 Flask
 Frozen-Flask
 arrow
-googleapiclient
+google-api-python-client
 matplotlib
 requests
