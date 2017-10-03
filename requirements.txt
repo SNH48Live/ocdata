@@ -1,0 +1,6 @@
+Flask
+Frozen-Flask
+arrow
+googleapiclient
+matplotlib
+requests

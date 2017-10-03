@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta content="width=device-width,initial-scale=1" name="viewport">
+  <title>Live chat transcript for {{ video_id }}</title>
+  <link href="https://fonts.googleapis.com/css?family=Roboto:400,500" rel="stylesheet">
+  <style>
+    body { margin: 0; }
+    a { color: #888; text-decoration: none; }
+    a:hover { opacity: 0.6; }
+    h1 { font: 18px serif; text-align: left; margin: 10px; }
+    div.format-links { font: 13px serif; margin: 10px; }
+    ul#transcript { margin: 10px; padding: 0; }
+    li.message { list-style: none; margin: 0; padding: 0; font: 13px Roboto, sans-serif; line-height: 22px; }
+    .message a { color: inherit; text-decoration: none; }
+    .message .published { color: #888; margin-right: 8px; }
+    .message .author { font-weight: 500; color: rgba(17, 17, 17, 0.6); margin-right: 8px; }
+    .message .author.owner { color: #e4a935; }
+    .message .author.owner:before { content: ""; background: url("{{ url_for('static', filename='images/owner.svg') }}") center/12px no-repeat; width: 12px; height: 12px; display: inline-block; }
+    .message .author.moderator { color: #5f84f2; }
+    .message .author.moderator:before { content: ""; background: url("{{ url_for('static', filename='images/moderator.svg') }}") center/12px no-repeat; width: 12px; height: 12px; display: inline-block; }
+    .message .author.me { color: #0f9d58; }
+    .message .author.me:before { content: ""; background: url("{{ url_for('static', filename='images/snh48live.png') }}") center/12px no-repeat; width: 12px; height: 12px; display: inline-block; }
+    img.emoji { width: 24px; height: 24px; vertical-align: middle; margin: -1px 2px; }
+  </style>
+</head>
+<body>
+  <h1>Live chat transcript for <a class="video-link" href="https://youtu.be/{{ video_id }}">{{ video_id }}</a></h1>
+  <div class="format-links">Other formats: <a href="{{ url_for('transcript_json', video_id=video_id) }}" target="_blank">JSON</a> <a href="{{ url_for('transcript_txt', video_id=video_id) }}" target="_blank">TXT</a></div>
+  <ul id="transcript">
+    {% for message in messages -%}
+    {% if message.offset >= 0 -%}
+    <li class="message">
+      <time class="published" datetime="{{ message.published }}">
+        <a href="https://youtu.be/{{ video_id }}?t={{ message.offset|int }}" target="_blank">{{ message.offset|formatoffset }}</a>
+      </time>
+      <span class="author{% if message.author_is_owner %} owner{% endif %}{% if message.author_is_moderator %} moderator{% endif %}{% if message.author_channel_id == 'UC10BBCJQasWk_08Fdz0XCsQ' %} me{% endif %}">
+        <a href="https://youtube.com/channel/{{ message.author_channel_id }}" target="_blank">{{ message.author|e }}</a>
+      </span>
+      <span class="content">{{ message.text|e }}</span>
+    </li>
+    {% endif -%}
+    {% endfor -%}
+  </ul>
+</body>
+</html>
+
+{# Local Variables: #}
+{# mode: jinja2 #}
+{# End: #}

@@ -1,0 +1,17 @@
+#!/usr/bin/env python3
+
+import flask_frozen
+
+from website import app
+
+
+# ocdata stands for "official channel data".
+# oldata is way too confusing.
+app.config['FREEZER_BASE_URL'] = 'https://snh48live.org/ocdata/'
+app.config['FREEZER_IGNORE_404_NOT_FOUND'] = True
+app.config['FREEZER_DESTINATION'] = 'public'
+freezer = flask_frozen.Freezer(app)
+
+
+if __name__ == '__main__':
+    freezer.freeze()

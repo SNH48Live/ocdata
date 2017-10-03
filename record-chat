@@ -1,0 +1,100 @@
+#!/usr/bin/env python3
+
+import collections
+import json
+import time
+
+import arrow
+
+from lib import auth
+from lib.config import TRANSCRIPTS_DIR, logger
+
+
+global youtube
+
+
+def get_info(video_id):
+    response = youtube.videos().list(
+        part='liveStreamingDetails',
+        id=video_id,
+        maxResults=50,
+    ).execute()
+    live_details = response['items'][0]['liveStreamingDetails']
+    start_time = arrow.get(live_details['actualStartTime']).to('Asia/Shanghai')
+    live_chat_id = live_details['activeLiveChatId']
+    return start_time, live_chat_id
+
+
+def record_live_chat(video_id, live_chat_id, start_time):
+    txtlog = TRANSCRIPTS_DIR / f'{video_id}.txt'
+    jsonlog = TRANSCRIPTS_DIR / f'{video_id}.json'
+    with open(txtlog, 'a') as fp:
+        print(f'# {start_time}', file=fp)
+    with open(jsonlog, 'a') as fp:
+        pass
+
+    # https://developers.google.com/youtube/v3/live/docs/liveChatMessages/list
+    request = youtube.liveChatMessages().list(
+        liveChatId=live_chat_id,
+        part='snippet,authorDetails',
+        maxResults=2000,
+    )
+    while request:
+        try:
+            response = request.execute()
+            objs = []
+            txtmsgs = []
+            for item in response['items']:
+                published = arrow.get(item['snippet']['publishedAt']).to('Asia/Shanghai')
+                offset = round(published.float_timestamp - start_time.float_timestamp, 3)
+                author = item['authorDetails']['displayName']
+                author_channel_id = item['authorDetails']['channelId']
+                author_is_owner = item['authorDetails']['isChatOwner']
+                author_is_moderator = item['authorDetails']['isChatModerator']
+                text = item['snippet']['displayMessage']
+                obj = collections.OrderedDict([
+                    ('published', str(published)),
+                    ('offset', offset),
+                    ('author', author),
+                    ('author_channel_id', author_channel_id),
+                    ('author_is_owner', author_is_owner),
+                    ('author_is_moderator', author_is_moderator),
+                    ('text', text),
+                ])
+                objs.append(obj)
+                txtmsg = (f'[{published}] <{author_channel_id}> '
+                          f'{"*" if author_is_owner or author_is_moderator else " "}'
+                          f'{author}: {text}')
+                txtmsgs.append(txtmsg)
+
+            with open(txtlog, 'a') as fp:
+                for txtmsg in txtmsgs:
+                    print(txtmsg, file=fp)
+            with open(jsonlog, 'a') as fp:
+                for obj in objs:
+                    print(json.dumps(obj, ensure_ascii=False), file=fp)
+
+            # Poll at most twice every minute to save quota
+            time.sleep(max(response['pollingIntervalMillis'] / 1000, 30))
+            request = youtube.liveChatMessages().list_next(request, response)
+        except Exception as exc:
+            logger.error(f'{exc.__class__.__name__}: {exc}')
+
+
+def main():
+    parser = auth.ArgumentParser()
+    parser.add_argument('video_id')
+    args = parser.parse_args()
+
+    global youtube
+    youtube = auth.get_youtube_client('youtube.readonly', args=args)
+
+    start_time, live_chat_id = get_info(args.video_id)
+    try:
+        record_live_chat(args.video_id, live_chat_id, start_time)
+    except KeyboardInterrupt:
+        pass
+
+
+if __name__ == '__main__':
+    main()

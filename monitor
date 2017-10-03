@@ -1,18 +1,26 @@
 #!/usr/bin/env python3
 
+import collections
+import json
 import os
+import pathlib
+import signal
+import subprocess
 import sys
 import time
+import urllib.parse
 
 import arrow
 import matplotlib.pyplot as plt
 plt.rcParams.update({'font.family': 'Consolas', 'font.size': 14})
+import requests
 
 from lib import auth
-from lib.config import VIEWERS_DIR, PLOTS_DIR, logger
+from lib.config import INDEX, METADATA_DIR, PLOTS_DIR, VIEWERS_DIR, logger
 
 
 global youtube
+HERE = pathlib.Path(__file__).resolve().parent
 
 
 class LivestreamEndedError(Exception):
@@ -52,11 +60,7 @@ def get_current_live_video_id(channel_id):
 
 def get_live_viewership(video_id):
     try:
-        response = youtube.videos().list(
-            part='liveStreamingDetails',
-            id=video_id,
-            maxResults=50,
-        ).execute()
+        response = youtube.videos().list(part='liveStreamingDetails', id=video_id).execute()
         live_details = response['items'][0]['liveStreamingDetails']
         if 'concurrentViewers' not in live_details:
             if 'actualEndTime' in live_details:
@@ -69,18 +73,17 @@ def get_live_viewership(video_id):
                 return None
         return live_details['concurrentViewers']
     except Exception as exc:
+        if isinstance(exc, LivestreamEndedError):
+            raise exc
         log_exception(exc, 'failed to extract concurrentViewers of livestream')
         return None
 
 
 def get_start_time(video_id):
     try:
-        response = youtube.videos().list(
-            part='liveStreamingDetails',
-            id=video_id,
-            maxResults=50,
-        ).execute()
-        return arrow.get(response['items'][0]['liveStreamingDetails']['actualStartTime'])
+        response = youtube.videos().list(part='liveStreamingDetails', id=video_id).execute()
+        return (arrow.get(response['items'][0]['liveStreamingDetails']['actualStartTime'])
+                .to('Asia/Shanghai'))
     except Exception as exc:
         log_exception(exc, 'failed to extract concurrentViewers of livestream')
         return None
@@ -88,7 +91,8 @@ def get_start_time(video_id):
 
 def plot(video_id, logfile):
     start_time = get_start_time(video_id)
-    start_time_str = start_time.to('Asia/Shanghai').strftime('%Y-%m-%dT%H:%M%z')
+    date = start_time.strftime('%Y%m%d')
+    start_time_str = start_time.strftime('%Y-%m-%dT%H:%M%z')
     data = []
     peak_offset = 0
     peak_count = 0
@@ -113,11 +117,63 @@ def plot(video_id, logfile):
     plt.xlabel('Time since start (minutes)')
     plt.ylabel('Concurrent viewer count')
     plt.title(f'Live viewership curve for youtu.be/{video_id}\nStart time: {start_time_str}')
-    for ext in ('.svg', '.png'):
-        path = PLOTS_DIR.joinpath(video_id).with_suffix(ext)
+    for ext in ('svg', 'png'):
+        path = PLOTS_DIR / f'{date}-{video_id}.{ext}'
         plt.savefig(os.fspath(path), dpi=120, bbox_inches='tight')
         logger.info(f'Generated image: {path}')
-    logger.info(f'Peak: https://youtu.be/{video_id}?t={peak_offset_seconds}')
+        optimizer = 'svgo' if ext == 'svg' else 'optipng'
+        subprocess.run([optimizer, path], stdin=subprocess.DEVNULL,
+                       stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+    logger.info(f'Peak: {peak_count} at https://youtu.be/{video_id}?t={peak_offset_seconds}')
+    return peak_count, peak_offset_seconds
+
+
+def postprocess(video_id, logfile):
+    try:
+        peak_count, peak_offset_seconds = plot(video_id, logfile)
+        response = youtube.videos().list(part='liveStreamingDetails', id=video_id).execute()
+        live_details = response['items'][0]['liveStreamingDetails']
+        start_time = arrow.get(live_details['actualStartTime']).to('Asia/Shanghai')
+        end_time = arrow.get(live_details['actualEndTime']).to('Asia/Shanghai')
+        date = start_time.strftime('%Y%m%d')
+
+        with open(INDEX, 'a') as fp:
+            print(date, video_id, file=fp)
+
+        respobj = requests.get('https://snh48live.org/schedule/json/').json()
+        events = list(reversed(respobj['past'])) + respobj['scheduled']
+        related_events = []
+        for event in events:
+            event_start_time = arrow.get(event['datetime'])
+            # Allow the livestream to be 15 minutes late
+            if start_time.timestamp - 900 <= event_start_time.timestamp <= end_time.timestamp:
+                related_events.append(collections.OrderedDict([
+                    ('datetime', event['datetime']),
+                    ('title', event['title']),
+                    ('subtitle', event['subtitle']),
+                    ('thumbnail_url', urllib.parse.urljoin('https://snh48live.org/',
+                                                           event['local_thumbnail_url'])),
+                ]))
+        event_names = [f'{e["title"]} {e["subtitle"]}' for e in related_events]
+        logger.info('Events identified: %s' % '; '.join(event_names))
+        data = collections.OrderedDict([
+            ('video_id', video_id),
+            ('start_time', str(start_time)),
+            ('end_time', str(end_time)),
+            ('events', related_events),
+            ('plot', f'{date}-{video_id}.svg'),
+            ('peak_viewers', peak_count),
+            ('peak_offset', peak_offset_seconds),
+        ])
+        metadata_file = METADATA_DIR / f'{date}-{video_id}.json'
+        with open(metadata_file, 'w') as fp:
+            fp.write(json.dumps(data, ensure_ascii=False))
+        logger.info(f'Wrote metadata file: {metadata_file}')
+
+        # Generate website
+        subprocess.run([HERE / 'freeze'])
+    except Exception as exc:
+        log_exception(exc, f'failed to postprocess {viedo_id}')
 
 
 def main():
@@ -134,6 +190,7 @@ def main():
 
     if hasattr(args, 'plot'):
         for video_id in args.video_ids:
+            # TODO: prepend date
             logfile = VIEWERS_DIR.joinpath(video_id).with_suffix('.log')
             plot(video_id, logfile)
         sys.exit(0)
@@ -146,15 +203,36 @@ def main():
                 if not video_id:
                     time.sleep(300)
                     continue
-                logfile = VIEWERS_DIR.joinpath(video_id).with_suffix('.log')
+                start_time = get_start_time(video_id) or arrow.get().to('Asia/Shanghai')
+                date = start_time.strftime('%Y%m%d')
+                logfile = VIEWERS_DIR / f'{date}-{video_id}.log'
+                with open(logfile, 'a') as fp:
+                    pass
+
+                chat_recorder = subprocess.Popen([HERE / 'record-chat', video_id],
+                                                 stdin=subprocess.DEVNULL)
+
+                ending_ticks = 0
 
             time.sleep(60 - time.time() % 60)
             now = int(time.time())
             try:
                 viewership = get_live_viewership(video_id)
+                ending_ticks = 0
             except LivestreamEndedError as exc:
                 logger.info(exc)
-                plot(video_id, logfile)
+
+                ending_ticks += 1
+                # Less than three minutes since we first detect a
+                # LivestreamEndedError, which might be a temporary
+                # interruption.
+                if ending_ticks <= 3:
+                    continue
+
+                chat_recorder.send_signal(signal.SIGINT)
+                chat_recorder.wait(5)
+                chat_recorder.kill()
+                postprocess(video_id, logfile)
                 video_id = None
                 logfile = None
             else:

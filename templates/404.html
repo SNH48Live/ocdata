@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta content="width=device-width,initial-scale=1" name="viewport">
+  <meta http-equiv="refresh" content="2; url={{ url_for('index') }}">
+  <title>404</title>
+  <style>
+    html { height: 100%; }
+    body { margin: 0; font-family: "Times New Roman", Times, serif; font-size: 24px; }
+    #notice { position: fixed; top: 50%; left: 50%; text-align: center; transform: translate(-50%, -50%); }
+    a { color: inherit; text-decoration: none; border-bottom: 1px dashed; }
+  </style>
+</head>
+<body>
+  <div id="notice">Not Found<br><a href="{{ url_for('index') }}">Back to Index</a></div>
+</body>
+</html>
