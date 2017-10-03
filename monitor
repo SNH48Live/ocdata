@@ -189,11 +189,16 @@ def main():
     youtube = auth.get_youtube_client('youtube.readonly', args=args)
 
     if hasattr(args, 'plot'):
+        retval = 0
         for video_id in args.video_ids:
-            # TODO: prepend date
-            logfile = VIEWERS_DIR.joinpath(video_id).with_suffix('.log')
-            plot(video_id, logfile)
-        sys.exit(0)
+            try:
+                logfile = list(VIEWERS_DIR.glob(f'*-{video_id}.log'))[0]
+            except IndexError:
+                logger.error(f'video id {video_id} not found')
+                retval = 1
+            else:
+                plot(video_id, logfile)
+        sys.exit(retval)
 
     video_id = None
     try:
