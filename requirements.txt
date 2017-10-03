@@ -1,6 +1,7 @@
 Flask
 Frozen-Flask
 arrow
+attrdict
 google-api-python-client
 matplotlib
 requests
