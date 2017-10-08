@@ -1,0 +1,984 @@
+# 2017-10-08T13:38:29+08:00
+[2017-10-08T13:25:31.550000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: 0.0
+[2017-10-08T13:37:36.029000+08:00] <UCxxXMHRhZvOs5bKXPW1Yz-A>  鍾昀儒: 安安
+[2017-10-08T13:37:41.207000+08:00] <UCfFPHrb6ipovj7Kg5_j8sfA>  嘉愛的酒心巧克力: HI
+[2017-10-08T13:37:44.446000+08:00] <UC1vDXySBR7bXbqxt5gPgDjw>  Annie Lam: hi
+[2017-10-08T13:37:45.398000+08:00] <UCUv4EsKxQluOMx9nNpcFuGw>  SKYPIREY DARK SHADOW: hola
+[2017-10-08T13:37:47.226000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: 0
+[2017-10-08T13:37:48.532000+08:00] <UCxxXMHRhZvOs5bKXPW1Yz-A>  鍾昀儒: 好聽的歌
+[2017-10-08T13:37:48.748000+08:00] <UCUv4EsKxQluOMx9nNpcFuGw>  SKYPIREY DARK SHADOW: hi
+[2017-10-08T13:37:50.047000+08:00] <UC5P2RCpr2FeC20X-4tSrDcA>  郁宸林: 來當螢幕超V了
+[2017-10-08T13:37:56.992000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: HI
+[2017-10-08T13:38:01.152000+08:00] <UCUhQoiSJHwJ6KTLT7KKJ08w>  hà trần: team ???
+[2017-10-08T13:38:02.007000+08:00] <UCUv4EsKxQluOMx9nNpcFuGw>  SKYPIREY DARK SHADOW: anyongaseyo
+[2017-10-08T13:38:07.009000+08:00] <UCo7a_nESOMW6PFVhXBaJmKQ>  Yan Yan: 今天是那个team？
+[2017-10-08T13:38:09.204000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: hi
+[2017-10-08T13:38:11.749000+08:00] <UCUv4EsKxQluOMx9nNpcFuGw>  SKYPIREY DARK SHADOW: team forma what?
+[2017-10-08T13:38:19.481000+08:00] <UCfFPHrb6ipovj7Kg5_j8sfA>  嘉愛的酒心巧克力: SII
+[2017-10-08T13:38:22.945000+08:00] <UCpOG5PXUM3qI1KKHiZ9p0Rw>  淡淡: 嗨
+[2017-10-08T13:38:27.486000+08:00] <UCYFO1P-7IBML3b46P87sgDg>  snh48 fan từ tử hiên: hi
+[2017-10-08T13:38:29.353000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: sii吗
+[2017-10-08T13:38:29.909000+08:00] <UCo7a_nESOMW6PFVhXBaJmKQ>  Yan Yan: ​今天是那个team？
+[2017-10-08T13:38:35.049000+08:00] <UCpOG5PXUM3qI1KKHiZ9p0Rw>  淡淡: 我又來了
+[2017-10-08T13:38:36.146000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: N2
+[2017-10-08T13:38:44.286000+08:00] <UCfFPHrb6ipovj7Kg5_j8sfA>  嘉愛的酒心巧克力: NII
+[2017-10-08T13:38:44.785000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 这是n2第二场吧
+[2017-10-08T13:38:49.384000+08:00] <UCpOG5PXUM3qI1KKHiZ9p0Rw>  淡淡: 恩
+[2017-10-08T13:38:50.110000+08:00] <UCfFPHrb6ipovj7Kg5_j8sfA>  嘉愛的酒心巧克力: 打錯
+[2017-10-08T13:38:52.901000+08:00] <UC38Hc4ZXzNBUcn7VfpTclJw>  Jew 96: S2 ?
+[2017-10-08T13:38:54.031000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 又来啦
+[2017-10-08T13:39:06.142000+08:00] <UCc7tQoKqiannnwmehiFkiYA>  Wang Jingze: N2
+[2017-10-08T13:39:13.145000+08:00] <UCz8ejHntMZwp_tnJnD1m88Q>  zedd paul: 这是team sii吗
+[2017-10-08T13:39:17.896000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 认真看完两场全场 之后大概就看mc和喜欢的unit了
+[2017-10-08T13:39:20.377000+08:00] <UCfFPHrb6ipovj7Kg5_j8sfA>  嘉愛的酒心巧克力: SNH48 TeamNII《以愛之名》公演
+[2017-10-08T13:39:24.067000+08:00] <UCUv4EsKxQluOMx9nNpcFuGw>  SKYPIREY DARK SHADOW: don't see anymore??
+[2017-10-08T13:39:33.509000+08:00] <UCyIJb2Q-K6thFHQtt8vwnfw>  Anggara 48: when Annocoument Battle War MV?
+[2017-10-08T13:39:53.147000+08:00] <UCK0o_4SdGeOfdNPV-mnXzrQ>  Yui Yung Serena Lam: hi
+[2017-10-08T13:40:10.613000+08:00] <UCc7tQoKqiannnwmehiFkiYA>  Wang Jingze: 以爱之名还是Unit更好看一点
+[2017-10-08T13:40:35.239000+08:00] <UCyIJb2Q-K6thFHQtt8vwnfw>  Anggara 48: i think on 7 oct final battle war MV annocoument
+[2017-10-08T13:40:35.856000+08:00] <UCz8ejHntMZwp_tnJnD1m88Q>  zedd paul: team sii是晚上吗
+[2017-10-08T13:41:34.958000+08:00] <UCxxXMHRhZvOs5bKXPW1Yz-A>  鍾昀儒: ..............
+[2017-10-08T13:41:46.721000+08:00] <UCpOG5PXUM3qI1KKHiZ9p0Rw>  淡淡: N隊現在嗎？S隊是不是在晚上
+[2017-10-08T13:42:03.836000+08:00] <UCK0o_4SdGeOfdNPV-mnXzrQ>  Yui Yung Serena Lam: 今天好像只有這個
+[2017-10-08T13:42:06.512000+08:00] <UCYX8aYIoNFAik4IqzAxTvig>  Ni Nguyen Thi: snh48 sii hello
+[2017-10-08T13:42:56.330000+08:00] <UCxxXMHRhZvOs5bKXPW1Yz-A>  鍾昀儒: 公主披风很好聽
+[2017-10-08T13:44:04.075000+08:00] <UCHTaEV-WywFZK1REkUKUR7g>  Huynh Thy: NII
+[2017-10-08T13:44:08.776000+08:00] <UChoc4cKAFVkINgA_oE2n76A>  Quyên Kim: SII Wo ai ni
+[2017-10-08T13:44:50.606000+08:00] <UCHTaEV-WywFZK1REkUKUR7g>  Huynh Thy: này team NII đúng ko ?? This is TEAM NII ??
+[2017-10-08T13:45:12.603000+08:00] <UCz8ejHntMZwp_tnJnD1m88Q>  zedd paul: 公主坡风比这首歌还好啦 😄😄
+[2017-10-08T13:45:17.450000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: 《以爱之名》剧场公演 TEAM NII剧场公演 2017年10月08日13:45:00
+[2017-10-08T13:47:06.356000+08:00] <UCxxXMHRhZvOs5bKXPW1Yz-A>  鍾昀儒: 好聽
+[2017-10-08T13:47:44.057000+08:00] <UCSb_K0n5fpJtUxV5AE2Z_JA>  keenan1989: 您现在收看的是TEAM NII剧场公演 TEAM NII TEAM NII TEAM NII TEAM NII TEAM NII TEAM NII
+[2017-10-08T13:47:53.038000+08:00] <UCHTaEV-WywFZK1REkUKUR7g>  Huynh Thy: NII NII NII NII
+[2017-10-08T13:48:26.581000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 猎梦 光之轨迹 春夏秋冬都不错啊
+[2017-10-08T13:51:11.032000+08:00] <UCz8ejHntMZwp_tnJnD1m88Q>  zedd paul: 你们都是中国人吗还是台湾人
+[2017-10-08T13:51:19.160000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: 今天大家不用上班嗎?
+[2017-10-08T13:51:41.966000+08:00] <UCxxXMHRhZvOs5bKXPW1Yz-A>  鍾昀儒: 我小學6年級
+[2017-10-08T13:52:12.778000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 我这周日凌晨2点
+[2017-10-08T13:52:13.264000+08:00] <UCSb_K0n5fpJtUxV5AE2Z_JA>  keenan1989: 今天休假
+[2017-10-08T13:52:20.596000+08:00] <UCuqq4A21WBFfEYbjBVCXI3w>  320 ML: 今天星期日，不上课
+[2017-10-08T13:52:26.061000+08:00] <UC3vAKvYJGXaPINUTxYmkOXw>  双 双: 台灣
+[2017-10-08T13:52:31.555000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: 0.0
+[2017-10-08T13:52:32.261000+08:00] <UCOsP9lhSxwEVRAOJuTlz5dg>  林兮: 台灣學生表示放假
+[2017-10-08T13:52:52.497000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 台湾也有七天长假吗
+[2017-10-08T13:53:01.697000+08:00] <UCOsP9lhSxwEVRAOJuTlz5dg>  林兮: 沒有
+[2017-10-08T13:53:05.602000+08:00] <UCOsP9lhSxwEVRAOJuTlz5dg>  林兮: 台灣4天
+[2017-10-08T13:53:15.326000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 也挺好的
+[2017-10-08T13:53:39.973000+08:00] <UCOsP9lhSxwEVRAOJuTlz5dg>  林兮: 是阿
+[2017-10-08T13:54:13.670000+08:00] <UCz8ejHntMZwp_tnJnD1m88Q>  zedd paul: 我是马来西亚人你们会怎样吗
+[2017-10-08T13:54:16.095000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 马来西亚国庆已过了两个月时8月31日哈哈我是马来西亚人
+[2017-10-08T13:54:31.188000+08:00] <UC7VW7Escg0tCvGoBFA5VQwQ>  yinuo tan: 我也是
+[2017-10-08T13:54:31.388000+08:00] <UCOsP9lhSxwEVRAOJuTlz5dg>  林兮: 一起嗨
+[2017-10-08T13:54:45.080000+08:00] <UCuqq4A21WBFfEYbjBVCXI3w>  320 ML: me too
+[2017-10-08T13:54:57.014000+08:00] <UCz8ejHntMZwp_tnJnD1m88Q>  zedd paul: 我是中学
+[2017-10-08T13:55:17.260000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 我是xx
+[2017-10-08T13:55:28.359000+08:00] <UCz8ejHntMZwp_tnJnD1m88Q>  zedd paul: 我是女的不是男的
+[2017-10-08T13:55:38.009000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 我是小学毕业生
+[2017-10-08T13:56:04.499000+08:00] <UCz8ejHntMZwp_tnJnD1m88Q>  zedd paul: 我的名字叫zeddpaul儿已
+[2017-10-08T13:56:22.596000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 我也是女的
+[2017-10-08T13:56:35.077000+08:00] <UCz8ejHntMZwp_tnJnD1m88Q>  zedd paul: 你几岁
+[2017-10-08T13:56:42.301000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 12
+[2017-10-08T13:56:46.336000+08:00] <UC7VW7Escg0tCvGoBFA5VQwQ>  yinuo tan: 我明天就考试了
+[2017-10-08T13:57:03.926000+08:00] <UCSb_K0n5fpJtUxV5AE2Z_JA>  keenan1989: 你们都年下....我年上组
+[2017-10-08T13:57:04.319000+08:00] <UC3vAKvYJGXaPINUTxYmkOXw>  宣 宣: 我也12
+[2017-10-08T13:57:05.791000+08:00] <UCz8ejHntMZwp_tnJnD1m88Q>  zedd paul: 13岁
+[2017-10-08T13:57:22.548000+08:00] <UCC5xA904ECUGDqkC5TrdPqg>  鄒瑜庭: 15。。。。
+[2017-10-08T13:57:33.804000+08:00] <UC75df4jlcov1WUYsNKB_eZA>  黄痛痒: 都这么嫩
+[2017-10-08T13:57:34.732000+08:00] <UCOsP9lhSxwEVRAOJuTlz5dg>  林兮: 哇 17歲我覺得自己老阿姨了
+[2017-10-08T13:57:41.144000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: yinuo你叻
+[2017-10-08T13:57:51.010000+08:00] <UC7VW7Escg0tCvGoBFA5VQwQ>  yinuo tan: 15
+[2017-10-08T13:57:52.826000+08:00] <UCz8ejHntMZwp_tnJnD1m88Q>  zedd paul: 你们小学好可怜哦
+[2017-10-08T13:58:00.130000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 哇
+[2017-10-08T13:58:02.361000+08:00] <UCuqq4A21WBFfEYbjBVCXI3w>  320 ML: 15
+[2017-10-08T13:58:12.510000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 为什么
+[2017-10-08T13:58:21.712000+08:00] <UCOGtzLeu_qKKl22B_-hqt9A>  友次子边渡: 大家覺得新公演怎麼樣 我還沒看😂
+[2017-10-08T13:58:26.254000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 15岁的pt3
+[2017-10-08T13:58:29.277000+08:00] <UCOsP9lhSxwEVRAOJuTlz5dg>  林兮: 很棒
+[2017-10-08T13:58:35.555000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: b站直播快一些 原来好像是一样快的
+[2017-10-08T13:58:36.051000+08:00] <UCz8ejHntMZwp_tnJnD1m88Q>  zedd paul: 你们可以坦白跟我说你们几岁的
+[2017-10-08T13:58:41.491000+08:00] <UCSb_K0n5fpJtUxV5AE2Z_JA>  keenan1989: 17老阿姨....我这个不就祖宗了....（脑补表情包-掩面哭笑）
+[2017-10-08T13:58:44.802000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 15岁PT3有压力
+[2017-10-08T13:58:47.108000+08:00] <UCuqq4A21WBFfEYbjBVCXI3w>  320 ML: 我统考生
+[2017-10-08T13:58:51.884000+08:00] <UC7VW7Escg0tCvGoBFA5VQwQ>  yinuo tan: 就在明天
+[2017-10-08T13:59:01.397000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 有几首很不错的
+[2017-10-08T13:59:18.775000+08:00] <UCOsP9lhSxwEVRAOJuTlz5dg>  林兮: youtube好像是會延遲點
+[2017-10-08T13:59:24.283000+08:00] <UCOGtzLeu_qKKl22B_-hqt9A>  友次子边渡: 嗯看看
+[2017-10-08T13:59:33.423000+08:00] <UCSb_K0n5fpJtUxV5AE2Z_JA>  keenan1989: B站卡的我不要不要的..
+[2017-10-08T13:59:43.911000+08:00] <UC75df4jlcov1WUYsNKB_eZA>  黄痛痒: 春夏秋冬不错
+[2017-10-08T13:59:45.628000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 为什么我是油管卡。。。
+[2017-10-08T13:59:53.182000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: b站主要弹幕太多了。。。
+[2017-10-08T13:59:55.020000+08:00] <UCfeBlTKVBnQdB4I1860e5Zw>  Lin Jung: 新公演最愛黑名單
+[2017-10-08T14:00:09.704000+08:00] <UC3vAKvYJGXaPINUTxYmkOXw>  宣 宣: 你們喜歡snh48的誰呀！
+[2017-10-08T14:00:10.357000+08:00] <UCSb_K0n5fpJtUxV5AE2Z_JA>  keenan1989: ........我不开弹幕，看不清小姐姐们了2333
+[2017-10-08T14:00:18.442000+08:00] <UCbn6WPgx5VyVpGIfUnoUs2Q>  Lisa1218: 且看且珍惜，下周N队没有公演安排
+[2017-10-08T14:00:23.171000+08:00] <UCz8ejHntMZwp_tnJnD1m88Q>  zedd paul: PT3没有东西的你那电话去学校看答案啦
+[2017-10-08T14:00:39.151000+08:00] <UCeGG6VJSqpKiaUt9QW_hgPw>  WTH 鬥士: 最愛春夏秋冬
+[2017-10-08T14:00:41.006000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 其实是想用手机的口袋48看的结果手机坏了，只能用电脑
+[2017-10-08T14:00:50.375000+08:00] <UC75df4jlcov1WUYsNKB_eZA>  黄痛痒: 喜欢黄彤扬，下一次看她估计千秋乐了，痛苦
+[2017-10-08T14:00:50.564000+08:00] <UC8lBheFHo8ONrHEexShFj4w>  Michael Yang: 最爱春夏秋冬
+[2017-10-08T14:00:52.317000+08:00] <UC27DiBvEws4PnpsSr_4IefA>  陳蘇瑂: 我最愛鞠婧禕
+[2017-10-08T14:01:07.411000+08:00] <UCuNZTcBNLR0DqbQSpYNzGxg>  只愛一個人: 鞠婧禕
+[2017-10-08T14:01:10.549000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: 開始了
+[2017-10-08T14:01:12.777000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 发卡入坑的啊
+[2017-10-08T14:01:23.300000+08:00] <UCOsP9lhSxwEVRAOJuTlz5dg>  林兮: 我也是卡推
+[2017-10-08T14:01:26.661000+08:00] <UCkALvXCNFq7cBqZXihMOWfg>  弒神至极: 我也是小鞠
+[2017-10-08T14:01:28.778000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 朵朵有在吗
+[2017-10-08T14:01:36.803000+08:00] <UCOsP9lhSxwEVRAOJuTlz5dg>  林兮: 有的吧
+[2017-10-08T14:01:39.003000+08:00] <UCfeBlTKVBnQdB4I1860e5Zw>  Lin Jung: 小鞠和嘉愛
+[2017-10-08T14:01:39.510000+08:00] <UCSb_K0n5fpJtUxV5AE2Z_JA>  keenan1989: 我朵推，也是恩狗
+[2017-10-08T14:01:41.034000+08:00] <UCtuMuLWJ2LZbtAhBeiqnVsg>  X X: 朵在
+[2017-10-08T14:01:43.274000+08:00] <UCOGtzLeu_qKKl22B_-hqt9A>  友次子边渡: 鞠一年都没上公演了
+[2017-10-08T14:01:44.672000+08:00] <UCbn6WPgx5VyVpGIfUnoUs2Q>  Lisa1218: 朵朵在
+[2017-10-08T14:01:56.893000+08:00] <UCtuMuLWJ2LZbtAhBeiqnVsg>  X X: 小鞠太忙了
+[2017-10-08T14:01:58.244000+08:00] <UCbn6WPgx5VyVpGIfUnoUs2Q>  Lisa1218: 小鞠和小四都在拍戏
+[2017-10-08T14:01:58.959000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: 多説話，我在錄你們彈幕
+[2017-10-08T14:02:04.226000+08:00] <UCz8ejHntMZwp_tnJnD1m88Q>  zedd paul: 我喜欢，戴萌，tako宝宝，许佳琪more
+[2017-10-08T14:02:05.441000+08:00] <UCSb_K0n5fpJtUxV5AE2Z_JA>  keenan1989: 没办法，小鞠一直拍戏，48不放人吧
+[2017-10-08T14:02:08.227000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 小鞠没在看朵朵
+[2017-10-08T14:02:10.057000+08:00] <UCHTaEV-WywFZK1REkUKUR7g>  Huynh Thy: 朵朵
+[2017-10-08T14:02:14.568000+08:00] <UCOGtzLeu_qKKl22B_-hqt9A>  友次子边渡: 录去哪里…
+[2017-10-08T14:02:19.912000+08:00] <UCuqq4A21WBFfEYbjBVCXI3w>  320 ML: 陆婷
+[2017-10-08T14:02:20.059000+08:00] <UCtuMuLWJ2LZbtAhBeiqnVsg>  X X: 看马鹿
+[2017-10-08T14:02:21.158000+08:00] <UCOsP9lhSxwEVRAOJuTlz5dg>  林兮: 錄彈幕幹嘛
+[2017-10-08T14:02:25.482000+08:00] <UCbn6WPgx5VyVpGIfUnoUs2Q>  Lisa1218: 陆婷
+[2017-10-08T14:02:27.742000+08:00] <UCbn6WPgx5VyVpGIfUnoUs2Q>  Lisa1218: 陆婷
+[2017-10-08T14:02:30.054000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: 我youtube
+[2017-10-08T14:02:53.063000+08:00] <UCfeBlTKVBnQdB4I1860e5Zw>  Lin Jung: 昨天看公演被嘉愛可愛死了
+[2017-10-08T14:02:54.118000+08:00] <UCuNZTcBNLR0DqbQSpYNzGxg>  只愛一個人: 朵可愛
+[2017-10-08T14:02:55.767000+08:00] <UCSb_K0n5fpJtUxV5AE2Z_JA>  keenan1989: SNH48 Hong Kong .... 你居然录制弹幕...妈吗我上电脑了...23333
+[2017-10-08T14:02:59.757000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: youtube还可以录弹幕啊
+[2017-10-08T14:03:02.146000+08:00] <UCOsP9lhSxwEVRAOJuTlz5dg>  林兮: 直播開始了我不說話了
+[2017-10-08T14:03:04.362000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: （｡ò ∀ ó｡）
+[2017-10-08T14:03:05.360000+08:00] <UCJxFmmLSvXj_DjLv19_u13w>  Gillf Michiyo: htt
+[2017-10-08T14:03:10.971000+08:00] <UCOGtzLeu_qKKl22B_-hqt9A>  友次子边渡: Youtube 弹幕版录播…😂
+[2017-10-08T14:03:16.693000+08:00] <UCbn6WPgx5VyVpGIfUnoUs2Q>  Lisa1218: 有录屏软件就可以啊
+[2017-10-08T14:03:20.912000+08:00] <UCi012aP86cIBvkADUSPXUaw>  Thuy Nguyen: LTY
+[2017-10-08T14:03:31.229000+08:00] <UCA6OJmI6ZIXESC73IWJtRnA>  lam josephine: htttt
+[2017-10-08T14:03:32.681000+08:00] <UCSb_K0n5fpJtUxV5AE2Z_JA>  keenan1989: 踢踢！
+[2017-10-08T14:03:48.401000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 还是这里好
+[2017-10-08T14:04:00.115000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 我最近不自觉就开始模仿婷婷的南京口音
+[2017-10-08T14:04:00.219000+08:00] <UCz8ejHntMZwp_tnJnD1m88Q>  zedd paul: WLN
+[2017-10-08T14:04:05.251000+08:00] <UCrieQwV1GeeR9No6ZFn8cmg>  Hy Duong: n2 n2 n2
+[2017-10-08T14:04:10.015000+08:00] <UCA6OJmI6ZIXESC73IWJtRnA>  lam josephine: htt
+[2017-10-08T14:04:12.543000+08:00] <UCbn6WPgx5VyVpGIfUnoUs2Q>  Lisa1218: 海外直播弹幕干净
+[2017-10-08T14:04:22.379000+08:00] <UC3vGGsHNOSL5PXsMHpkmCRg>  红股童: 黄婷婷
+[2017-10-08T14:04:24.086000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 对呀
+[2017-10-08T14:04:36.623000+08:00] <UCOsP9lhSxwEVRAOJuTlz5dg>  林兮: 會來看的基本都真愛粉了
+[2017-10-08T14:04:40.478000+08:00] <UCtuMuLWJ2LZbtAhBeiqnVsg>  X X: 明天都要考试了 我还在追公演
+[2017-10-08T14:04:41.132000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 其实也是因为人少。。。
+[2017-10-08T14:04:43.071000+08:00] <UCz8ejHntMZwp_tnJnD1m88Q>  zedd paul: htt
+[2017-10-08T14:04:44.858000+08:00] <UCSb_K0n5fpJtUxV5AE2Z_JA>  keenan1989: 我觉得还是有老鼠屎，偶尔夹杂几条KY，烦死了
+[2017-10-08T14:04:47.796000+08:00] <UCfeBlTKVBnQdB4I1860e5Zw>  Lin Jung: 真的乾淨多了
+[2017-10-08T14:04:48.574000+08:00] <UCz8ejHntMZwp_tnJnD1m88Q>  zedd paul: 666666
+[2017-10-08T14:04:50.038000+08:00] <UCbn6WPgx5VyVpGIfUnoUs2Q>  Lisa1218: 哈哈，海外真爱粉
+[2017-10-08T14:04:50.327000+08:00] <UCIDdtt9xPRszG3mk5rlXlcQ>  Esther Lee: 给大家再介绍一下，这是我女朋友@李艺彤
+[2017-10-08T14:05:00.476000+08:00] <UCtuMuLWJ2LZbtAhBeiqnVsg>  X X: 是啊
+[2017-10-08T14:05:08.172000+08:00] <UCOsP9lhSxwEVRAOJuTlz5dg>  林兮: 李藝彤是不會和你好的
+[2017-10-08T14:05:19.298000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 爱的罗曼史
+[2017-10-08T14:05:19.936000+08:00] <UCSb_K0n5fpJtUxV5AE2Z_JA>  keenan1989: 我要开全屏了，各位晚点见
+[2017-10-08T14:05:21.977000+08:00] <UCrieQwV1GeeR9No6ZFn8cmg>  Hy Duong: 这里看没那么卡
+[2017-10-08T14:05:29.431000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 88
+[2017-10-08T14:05:30.259000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 听说有人想和我的崽崽好？？
+[2017-10-08T14:05:48.885000+08:00] <UCIDdtt9xPRszG3mk5rlXlcQ>  Esther Lee: 微博都炸了 哈哈哈
+[2017-10-08T14:06:02.340000+08:00] <UCHTaEV-WywFZK1REkUKUR7g>  Huynh Thy: 彤彤彤彤
+[2017-10-08T14:06:09.006000+08:00] <UCHTaEV-WywFZK1REkUKUR7g>  Huynh Thy: 朵朵
+[2017-10-08T14:06:11.920000+08:00] <UCz8ejHntMZwp_tnJnD1m88Q>  zedd paul: 易嘉爱
+[2017-10-08T14:06:14.142000+08:00] <UC-7n5JyG2Ti1NhpRzNzHwjQ>  Mike Ma: 恩狗们大家好
+[2017-10-08T14:06:18.708000+08:00] <UCfeBlTKVBnQdB4I1860e5Zw>  Lin Jung: 嘉愛真的好可愛
+[2017-10-08T14:06:20.499000+08:00] <UCDOAwFuwU-uDCN5g4xlrNdg>  毛良: 昨晚沒看頭四首, 只看頭四首
+[2017-10-08T14:06:27.004000+08:00] <UCswi61R4nHn3G5KQjRpbujg>  惠琪 鄒: 黃婷婷！
+[2017-10-08T14:06:32.786000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 我的朵
+[2017-10-08T14:06:36.314000+08:00] <UCrieQwV1GeeR9No6ZFn8cmg>  Hy Duong: 加2
+[2017-10-08T14:06:37.408000+08:00] <UCOGtzLeu_qKKl22B_-hqt9A>  友次子边渡: 终于有可爱风了
+[2017-10-08T14:06:39.520000+08:00] <UCHTaEV-WywFZK1REkUKUR7g>  Huynh Thy: NII
+[2017-10-08T14:06:52.455000+08:00] <UCyaLBnED2HX7g5oNkDf77_w>  winkeung: 葛佳慧呢?
+[2017-10-08T14:06:54.620000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: 其实这套粉丝衣服蛮可爱呀
+[2017-10-08T14:06:55.178000+08:00] <UCOGtzLeu_qKKl22B_-hqt9A>  友次子边渡: 以为以后都不走了
+[2017-10-08T14:07:05.497000+08:00] <UCz8ejHntMZwp_tnJnD1m88Q>  zedd paul: 冯薪朵
+[2017-10-08T14:07:10.337000+08:00] <UCxhVYXAEjTScprCiv5g7C5A>  Yijing Zeng: 小葛身体抱恙
+[2017-10-08T14:07:13.339000+08:00] <UC8lBheFHo8ONrHEexShFj4w>  Michael Yang: 朵朵
+[2017-10-08T14:07:17.789000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 聚聚们第二场就已经会call了
+[2017-10-08T14:07:18.283000+08:00] <UCHTaEV-WywFZK1REkUKUR7g>  Huynh Thy: 赵粤
+[2017-10-08T14:07:25.017000+08:00] <UCIDdtt9xPRszG3mk5rlXlcQ>  Esther Lee: 我卡c位 老母亲留下感动的泪水
+[2017-10-08T14:07:28.202000+08:00] <UCDOAwFuwU-uDCN5g4xlrNdg>  毛良: 周怡還上不了 ?
+[2017-10-08T14:07:28.464000+08:00] <UCz8ejHntMZwp_tnJnD1m88Q>  zedd paul: 李艺彤
+[2017-10-08T14:07:51.354000+08:00] <UCz8ejHntMZwp_tnJnD1m88Q>  zedd paul: 陆婷
+[2017-10-08T14:07:53.287000+08:00] <UCHTaEV-WywFZK1REkUKUR7g>  Huynh Thy: 娜娜 x2
+[2017-10-08T14:08:04.905000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 娜总也喜欢
+[2017-10-08T14:08:09.316000+08:00] <UCa5OhUBE1GUizXRaM6JveTg>  zeyu wang: 冯薪朵！！！
+[2017-10-08T14:08:10.702000+08:00] <UC3vAKvYJGXaPINUTxYmkOXw>  宣 宣: 娜宝 娜宝 娜宝 娜宝 娜宝 娜宝
+[2017-10-08T14:08:32.967000+08:00] <UCHTaEV-WywFZK1REkUKUR7g>  Huynh Thy: 陆婷
+[2017-10-08T14:08:38.271000+08:00] <UCz8ejHntMZwp_tnJnD1m88Q>  zedd paul: 有谁没在
+[2017-10-08T14:08:42.791000+08:00] <UCIDdtt9xPRszG3mk5rlXlcQ>  Esther Lee: 去爱吧~
+[2017-10-08T14:08:50.432000+08:00] <UCuNZTcBNLR0DqbQSpYNzGxg>  只愛一個人: 鞠
+[2017-10-08T14:09:00.518000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 撸力小四都不在的
+[2017-10-08T14:09:06.466000+08:00] <UCz8ejHntMZwp_tnJnD1m88Q>  zedd paul: 还有吗
+[2017-10-08T14:09:08.716000+08:00] <UCxhVYXAEjTScprCiv5g7C5A>  Yijing Zeng: 貌似小鞠小四阿芬碎碎
+[2017-10-08T14:09:09.340000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 非常明显是小鞠没在
+[2017-10-08T14:09:17.405000+08:00] <UCHTaEV-WywFZK1REkUKUR7g>  Huynh Thy: 李艺彤
+[2017-10-08T14:09:32.345000+08:00] <UC75df4jlcov1WUYsNKB_eZA>  黄痛痒: 小黄又圆了，可爱
+[2017-10-08T14:09:36.278000+08:00] <UCDOAwFuwU-uDCN5g4xlrNdg>  毛良: 小四太瘦了
+[2017-10-08T14:09:37.070000+08:00] <UCxhVYXAEjTScprCiv5g7C5A>  Yijing Zeng: 刘瀛
+[2017-10-08T14:09:43.808000+08:00] <UCz8ejHntMZwp_tnJnD1m88Q>  zedd paul: 我还是喜欢李发卡
+[2017-10-08T14:09:48.945000+08:00] <UCfeBlTKVBnQdB4I1860e5Zw>  Lin Jung: 易嘉愛易嘉愛
+[2017-10-08T14:09:53.091000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 我记得小四好像只有80斤
+[2017-10-08T14:10:01.285000+08:00] <UCxhVYXAEjTScprCiv5g7C5A>  Yijing Zeng: 十七也不在
+[2017-10-08T14:10:22.135000+08:00] <UCHTaEV-WywFZK1REkUKUR7g>  Huynh Thy: NII
+[2017-10-08T14:10:36.615000+08:00] <UCDOAwFuwU-uDCN5g4xlrNdg>  毛良: 十七讀書, 要預備高考
+[2017-10-08T14:10:45.551000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 你们都不知道小四被鹿晗养了吗（择天记）
+[2017-10-08T14:10:52.726000+08:00] <UCxhVYXAEjTScprCiv5g7C5A>  Yijing Zeng: 。。。
+[2017-10-08T14:11:01.476000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 哈哈哈
+[2017-10-08T14:11:07.482000+08:00] <UCwLGQL1vTmRWqd3k08_Uc0g>  Song Ngư: 大哥大哥大哥
+[2017-10-08T14:11:16.371000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 她好像是北影毕业的吧
+[2017-10-08T14:11:16.532000+08:00] <UCwLGQL1vTmRWqd3k08_Uc0g>  Song Ngư: 大哥💜
+[2017-10-08T14:11:23.553000+08:00] <UC7lB-g7w5OrdIp0zWTDY8VA>  Siahiang Tan: 😍😍😍😍😍😍
+[2017-10-08T14:11:27.523000+08:00] <UCxxXMHRhZvOs5bKXPW1Yz-A>  鍾昀儒: 安安
+[2017-10-08T14:11:30.163000+08:00] <UCwLGQL1vTmRWqd3k08_Uc0g>  Song Ngư: 陆婷
+[2017-10-08T14:11:37.694000+08:00] <UCxxXMHRhZvOs5bKXPW1Yz-A>  鍾昀儒: 好聽@!!!!!
+[2017-10-08T14:11:40.854000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 😂😂
+[2017-10-08T14:11:41.834000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: 陆婷真可爱ww
+[2017-10-08T14:11:52.654000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: ＺＹＸ
+[2017-10-08T14:12:05.720000+08:00] <UCHTaEV-WywFZK1REkUKUR7g>  Huynh Thy: 大哥
+[2017-10-08T14:12:09.994000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: ＬＹＴ
+[2017-10-08T14:12:13.369000+08:00] <UCDOAwFuwU-uDCN5g4xlrNdg>  毛良: 小四只要鳮腿就可以搞定,,,,
+[2017-10-08T14:12:29.258000+08:00] <UCIDdtt9xPRszG3mk5rlXlcQ>  Esther Lee: lh和gxt公布恋情了😂
+[2017-10-08T14:12:37.423000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 不会吃胖她的
+[2017-10-08T14:12:37.705000+08:00] <UCwLGQL1vTmRWqd3k08_Uc0g>  Song Ngư: 大哥真可爱
+[2017-10-08T14:12:54.624000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: ＷＬＮ
+[2017-10-08T14:12:57.896000+08:00] <UCxhVYXAEjTScprCiv5g7C5A>  Yijing Zeng: 辣宝🏹
+[2017-10-08T14:13:07.425000+08:00] <UCDOAwFuwU-uDCN5g4xlrNdg>  毛良: 今晚全沒有公演....
+[2017-10-08T14:13:22.578000+08:00] <UCtuMuLWJ2LZbtAhBeiqnVsg>  X X: 感觉那恋情是假的
+[2017-10-08T14:13:58.963000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: Change costume
+[2017-10-08T14:14:15.471000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 其实昨天我没看首演
+[2017-10-08T14:14:18.173000+08:00] <UC7lB-g7w5OrdIp0zWTDY8VA>  Siahiang Tan: like like
+[2017-10-08T14:14:19.640000+08:00] <UCIDdtt9xPRszG3mk5rlXlcQ>  Esther Lee: 来一起蹦迪~
+[2017-10-08T14:14:23.845000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: 这首很帅的呀
+[2017-10-08T14:14:39.333000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 猎梦最帅感觉
+[2017-10-08T14:14:52.402000+08:00] <UCDOAwFuwU-uDCN5g4xlrNdg>  毛良: 代役不在 ?
+[2017-10-08T14:15:00.149000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 星羽又来待议啦
+[2017-10-08T14:15:02.107000+08:00] <UC7lB-g7w5OrdIp0zWTDY8VA>  Siahiang Tan: why 😓😓😓😓😓
+[2017-10-08T14:15:03.103000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 想她们跳这首的2倍数
+[2017-10-08T14:15:13.418000+08:00] <UCxhVYXAEjTScprCiv5g7C5A>  Yijing Zeng: 杨冰怡在
+[2017-10-08T14:15:26.320000+08:00] <UCpmy78Yz5lHN9LsJ1uLjGQA>  Chong Yip Tsang: 好像只有春夏秋冬。。和一開始那首好聽一點——
+[2017-10-08T14:15:38.372000+08:00] <UCDOAwFuwU-uDCN5g4xlrNdg>  毛良: tbe 呢 ?
+[2017-10-08T14:15:45.421000+08:00] <UCxhVYXAEjTScprCiv5g7C5A>  Yijing Zeng: 楼上跟我品味一样
+[2017-10-08T14:15:50.215000+08:00] <UCfTaI_2JnqGo_6ckFJB8Uaw>  Sharon Liu: 我居然错过了春夏秋冬。。。
+[2017-10-08T14:15:52.124000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 大家可以关注下星羽 特别单纯善良的一个女生
+[2017-10-08T14:15:53.480000+08:00] <UCOGtzLeu_qKKl22B_-hqt9A>  友次子边渡: 想嘉兴路能大装修一次😂
+[2017-10-08T14:16:04.460000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: 大家要求好高啊2333 我觉得ending和encore那几首也蛮好听的
+[2017-10-08T14:16:05.713000+08:00] <UCxhVYXAEjTScprCiv5g7C5A>  Yijing Zeng: 春夏秋冬Unit还没到呢
+[2017-10-08T14:16:29.320000+08:00] <UCOGtzLeu_qKKl22B_-hqt9A>  友次子边渡: 设备跟上了公演就多东西表演了😂
+[2017-10-08T14:16:34.567000+08:00] <UCxhVYXAEjTScprCiv5g7C5A>  Yijing Zeng: 毕竟人气高，期望值大
+[2017-10-08T14:16:35.230000+08:00] <UCfTaI_2JnqGo_6ckFJB8Uaw>  Sharon Liu: 好想去现场啊
+[2017-10-08T14:16:40.508000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: 张雨鑫～
+[2017-10-08T14:16:56.332000+08:00] <UCfTaI_2JnqGo_6ckFJB8Uaw>  Sharon Liu: 可爱的萌妹纸
+[2017-10-08T14:17:06.709000+08:00] <UCfTaI_2JnqGo_6ckFJB8Uaw>  Sharon Liu: 矮油我发卡
+[2017-10-08T14:17:08.903000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: 马鹿~
+[2017-10-08T14:17:21.585000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 我只想去总选和best的现场
+[2017-10-08T14:17:23.270000+08:00] <UCfTaI_2JnqGo_6ckFJB8Uaw>  Sharon Liu: 帅死了
+[2017-10-08T14:17:28.155000+08:00] <UCfTaI_2JnqGo_6ckFJB8Uaw>  Sharon Liu: 嗯嗯嗯嗯
+[2017-10-08T14:17:35.116000+08:00] <UCfeBlTKVBnQdB4I1860e5Zw>  Lin Jung: 其實大部份的歌聽第二遍都還不錯阿
+[2017-10-08T14:17:38.258000+08:00] <UCfTaI_2JnqGo_6ckFJB8Uaw>  Sharon Liu: 啥都想去
+[2017-10-08T14:17:50.385000+08:00] <UChsoQkqBK-arnqp-_Ez7Lww>  小菜幾盤: 曲目質量不優
+[2017-10-08T14:18:02.703000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 来啦来啦 吐槽曲
+[2017-10-08T14:18:04.567000+08:00] <UCkiWB4nL-PtESKnmGrZ-35g>  charlie po: cool
+[2017-10-08T14:18:07.999000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: 这一首是真的不太喜欢2333
+[2017-10-08T14:18:08.512000+08:00] <UCHTaEV-WywFZK1REkUKUR7g>  Huynh Thy: excel
+[2017-10-08T14:18:08.990000+08:00] <UC3vAKvYJGXaPINUTxYmkOXw>  宣 宣: 娜宝 娜宝 娜宝 娜宝
+[2017-10-08T14:18:11.491000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: wow
+[2017-10-08T14:18:17.599000+08:00] <UCOGtzLeu_qKKl22B_-hqt9A>  友次子边渡: 上次B50我去了 舞台气死人哈哈
+[2017-10-08T14:18:17.690000+08:00] <UChsoQkqBK-arnqp-_Ez7Lww>  小菜幾盤: 最不優首選
+[2017-10-08T14:18:27.038000+08:00] <UCHTaEV-WywFZK1REkUKUR7g>  Huynh Thy: 李艺彤
+[2017-10-08T14:18:31.223000+08:00] <UCIDdtt9xPRszG3mk5rlXlcQ>  Esther Lee: 感觉除了标准男友 其他都可以
+[2017-10-08T14:18:38.903000+08:00] <UCHTaEV-WywFZK1REkUKUR7g>  Huynh Thy: 朵朵
+[2017-10-08T14:18:40.437000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 你觉得坐的很近吗
+[2017-10-08T14:18:50.752000+08:00] <UC7lB-g7w5OrdIp0zWTDY8VA>  Siahiang Tan: wow😇😱😱😱
+[2017-10-08T14:19:01.806000+08:00] <UCHTaEV-WywFZK1REkUKUR7g>  Huynh Thy: NII
+[2017-10-08T14:19:04.523000+08:00] <UCFZCYSG-pci-iTCFu3AaACQ>  Wake Cit: 這首歌詞懶
+[2017-10-08T14:19:06.948000+08:00] <UCFZCYSG-pci-iTCFu3AaACQ>  Wake Cit: 爛
+[2017-10-08T14:19:19.186000+08:00] <UCOGtzLeu_qKKl22B_-hqt9A>  友次子边渡: 不近 离主舞台太远了
+[2017-10-08T14:19:21.131000+08:00] <UC7lB-g7w5OrdIp0zWTDY8VA>  Siahiang Tan: yes
+[2017-10-08T14:19:28.349000+08:00] <UCOGtzLeu_qKKl22B_-hqt9A>  友次子边渡: 还是去次总选吧
+[2017-10-08T14:19:30.329000+08:00] <UChsoQkqBK-arnqp-_Ez7Lww>  小菜幾盤: 可能胃口被H G的曲目養大了
+[2017-10-08T14:19:33.041000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 哈哈哈
+[2017-10-08T14:19:35.915000+08:00] <UC6wkP05MvZLSX1yOr31W7ng>  김용철프로맨채널tv.방송: 김용철프로맨TV,tv.채널:텔레비전으로 공유함..용철kim.tv.채널미디어.방송..진행자..글.공유함..
+[2017-10-08T14:20:00.610000+08:00] <UCOGtzLeu_qKKl22B_-hqt9A>  友次子边渡: 伪韩国人？
+[2017-10-08T14:20:07.240000+08:00] <UCtNLGnz2oGUgfj3emYr2Pog>  Alexandro guzman: team NII :)
+[2017-10-08T14:20:16.807000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: 歌词比较实在的
+[2017-10-08T14:20:30.781000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: 其实这首编舞蛮可爱的，就是歌词太不忍直视了233
+[2017-10-08T14:20:51.472000+08:00] <UCUIhzsHZ4i67O4mq6wYl9dg> *Seine 48: 广告讯息删了
+[2017-10-08T14:20:53.765000+08:00] <UChsoQkqBK-arnqp-_Ez7Lww>  小菜幾盤: 這歌詞直接把肥宅淘汰了QQ
+[2017-10-08T14:21:01.244000+08:00] <UCTbLCBroXNMa7AWYojQPl0Q>  Real Fairy: 在用流量看…
+[2017-10-08T14:21:02.801000+08:00] <UCxhVYXAEjTScprCiv5g7C5A>  Yijing Zeng: 哈哈哈
+[2017-10-08T14:21:04.943000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 去总选我只为小鞠和莫莫打call、
+[2017-10-08T14:21:10.012000+08:00] <UCOGtzLeu_qKKl22B_-hqt9A>  友次子边渡: 这首当Unit可爱风比较好
+[2017-10-08T14:21:12.254000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: 在地铁上看YouTube手机直播
+[2017-10-08T14:21:12.876000+08:00] <UCHTaEV-WywFZK1REkUKUR7g>  Huynh Thy: NII
+[2017-10-08T14:21:20.794000+08:00] <UCuqq4A21WBFfEYbjBVCXI3w>  320 ML: 说实话她们的舞蹈进步很快
+[2017-10-08T14:21:20.911000+08:00] <UC75df4jlcov1WUYsNKB_eZA>  黄痛痒: 同用流量
+[2017-10-08T14:21:30.951000+08:00] <UCHKD-ay13VvD4jv3pVV7SOA>  ホウブンキ: 来看mc了
+[2017-10-08T14:21:44.583000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: 对呀，首演没人吐槽舞蹈不齐了
+[2017-10-08T14:21:55.169000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: 流量贵
+[2017-10-08T14:21:55.392000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: 妹子们还是非常努力的
+[2017-10-08T14:22:03.713000+08:00] <UCFZCYSG-pci-iTCFu3AaACQ>  Wake Cit: 都吐槽歌難聽了
+[2017-10-08T14:22:08.371000+08:00] <UCxhVYXAEjTScprCiv5g7C5A>  Yijing Zeng: 全在吐槽歌曲服装
+[2017-10-08T14:22:21.250000+08:00] <UCTbLCBroXNMa7AWYojQPl0Q>  Real Fairy: 后几首还行
+[2017-10-08T14:22:23.409000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: 服装不好看吗~蛮好看的呀233
+[2017-10-08T14:22:28.487000+08:00] <UCOGtzLeu_qKKl22B_-hqt9A>  友次子边渡: Unit有性感的吗
+[2017-10-08T14:22:29.027000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 我觉得衣服还挺好看的。。。
+[2017-10-08T14:22:35.680000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: 感觉比专属派对好了不少呢
+[2017-10-08T14:22:38.574000+08:00] <UCIDdtt9xPRszG3mk5rlXlcQ>  Esther Lee: 反正我挺喜欢的
+[2017-10-08T14:22:39.498000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: yay～
+[2017-10-08T14:22:47.508000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: 2333我也觉得服装蛮可爱的
+[2017-10-08T14:22:49.376000+08:00] <UCtuMuLWJ2LZbtAhBeiqnVsg>  X X: 我也挺喜欢
+[2017-10-08T14:22:51.467000+08:00] <UCTbLCBroXNMa7AWYojQPl0Q>  Real Fairy: unit看了印象最深那个婚礼
+[2017-10-08T14:22:53.120000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 这次好像没有don't touch那么sexy的了
+[2017-10-08T14:22:56.557000+08:00] <UCgsuy6dps8OQ044i6dPclqw>  kotete 顏: 阿黃呢？
+[2017-10-08T14:23:04.088000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 大哥委屈
+[2017-10-08T14:23:18.353000+08:00] <UCIDdtt9xPRszG3mk5rlXlcQ>  Esther Lee: 比亮片好多了
+[2017-10-08T14:23:21.378000+08:00] <UCxhVYXAEjTScprCiv5g7C5A>  Yijing Zeng: 阿黄应该前几首不上
+[2017-10-08T14:23:28.710000+08:00] <UCtuMuLWJ2LZbtAhBeiqnVsg>  X X: 搞大哥
+[2017-10-08T14:23:30.437000+08:00] <UCgsuy6dps8OQ044i6dPclqw>  kotete 顏: 嗯嗯
+[2017-10-08T14:23:30.850000+08:00] <UCIDdtt9xPRszG3mk5rlXlcQ>  Esther Lee: 婷婷不上前四首
+[2017-10-08T14:23:50.506000+08:00] <UC3vAKvYJGXaPINUTxYmkOXw>  宣 宣: 娜宝在那
+[2017-10-08T14:23:58.014000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 那个嗝
+[2017-10-08T14:24:23.816000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 娜宝在你心里
+[2017-10-08T14:24:40.855000+08:00] <UC4zozmCP1Hu6CoIAm3jV3wQ>  这是不被允许的: 赵粤
+[2017-10-08T14:24:42.683000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 女饭了不起
+[2017-10-08T14:24:59.466000+08:00] <UC3vGGsHNOSL5PXsMHpkmCRg>  红股童: 会长
+[2017-10-08T14:25:15.089000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 闺蜜之间的爱情
+[2017-10-08T14:25:25.330000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 赵粤原来你是这种人
+[2017-10-08T14:25:29.453000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: 大哥突然被cue哈哈哈
+[2017-10-08T14:25:33.262000+08:00] <UCxhVYXAEjTScprCiv5g7C5A>  Yijing Zeng: 大哥flag之王
+[2017-10-08T14:25:37.144000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: 哈哈哈哈哈
+[2017-10-08T14:25:37.514000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 哇
+[2017-10-08T14:25:40.542000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 卡崽你又搞事
+[2017-10-08T14:25:41.738000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 发卡太聪明了
+[2017-10-08T14:25:45.888000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: 2233333
+[2017-10-08T14:26:04.744000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 233
+[2017-10-08T14:26:12.982000+08:00] <UC4YOZSrxBfFdvDZ19h7mm_A>  w: 潛水服加速器
+[2017-10-08T14:26:14.351000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 奥特之母
+[2017-10-08T14:26:19.587000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: 哈哈哈哈哈哈哈哈
+[2017-10-08T14:26:24.747000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: 233333
+[2017-10-08T14:26:26.411000+08:00] <UCxhVYXAEjTScprCiv5g7C5A>  Yijing Zeng: 发卡又作死
+[2017-10-08T14:26:28.922000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 666
+[2017-10-08T14:26:41.694000+08:00] <UC5P2RCpr2FeC20X-4tSrDcA>  郁宸林: 不知火舞哈哈哈
+[2017-10-08T14:26:44.105000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 大哥竟然知道不知火舞
+[2017-10-08T14:26:52.268000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: 原本是泳装
+[2017-10-08T14:26:58.902000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 巴啦啦能量
+[2017-10-08T14:27:05.864000+08:00] <UC4YOZSrxBfFdvDZ19h7mm_A>  w: 被二狗帶的吧
+[2017-10-08T14:27:08.566000+08:00] <UCvK_N6D1rm_1ICMUZaHp94A>  Liujing Chen: 哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+[2017-10-08T14:27:14.248000+08:00] <UCvK_N6D1rm_1ICMUZaHp94A>  Liujing Chen: 怎么肥四
+[2017-10-08T14:27:38.499000+08:00] <UCHKD-ay13VvD4jv3pVV7SOA>  ホウブンキ: 大哥本来不玩wzry的吧
+[2017-10-08T14:27:55.454000+08:00] <UC3vGGsHNOSL5PXsMHpkmCRg>  红股童: 朵朵
+[2017-10-08T14:27:59.191000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 朵朵
+[2017-10-08T14:28:01.962000+08:00] <UC5P2RCpr2FeC20X-4tSrDcA>  郁宸林: 爹!!
+[2017-10-08T14:28:02.369000+08:00] <UC4YOZSrxBfFdvDZ19h7mm_A>  w: 二狗是遊戲狂人...
+[2017-10-08T14:28:05.054000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 被wzry支配的塞纳河
+[2017-10-08T14:28:29.195000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 其实他们可以团内吃鸡
+[2017-10-08T14:28:36.778000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 100人无压力
+[2017-10-08T14:28:40.396000+08:00] <UC4zozmCP1Hu6CoIAm3jV3wQ>  这是不被允许的: 马鹿
+[2017-10-08T14:28:41.129000+08:00] <UCHTaEV-WywFZK1REkUKUR7g>  Huynh Thy: 马鹿
+[2017-10-08T14:28:48.520000+08:00] <UCHKD-ay13VvD4jv3pVV7SOA>  ホウブンキ: ？？？？？
+[2017-10-08T14:28:49.841000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 大哥：你不和我打和谁打？
+[2017-10-08T14:28:52.454000+08:00] <UC4YOZSrxBfFdvDZ19h7mm_A>  w: SII沉迷吃雞, NII沉迷農藥
+[2017-10-08T14:29:06.995000+08:00] <UCHTaEV-WywFZK1REkUKUR7g>  Huynh Thy: 大哥 aaaa
+[2017-10-08T14:29:11.015000+08:00] <UC4zozmCP1Hu6CoIAm3jV3wQ>  这是不被允许的: 哈哈哈哈哈哈哈哈哈
+[2017-10-08T14:29:14.113000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 哈哈哈
+[2017-10-08T14:29:18.510000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 哈哈哈哈哈哈
+[2017-10-08T14:29:24.021000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: 哈哈哈哈哈哈
+[2017-10-08T14:29:25.245000+08:00] <UCB0rJ_pXppFUo4S_fNaUV9g>  Yvonnie Wong: 马鹿
+[2017-10-08T14:29:43.164000+08:00] <UC5P2RCpr2FeC20X-4tSrDcA>  郁宸林: 哈哈哈哈
+[2017-10-08T14:29:52.511000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 潮湿的人
+[2017-10-08T14:29:56.208000+08:00] <UCuqq4A21WBFfEYbjBVCXI3w>  320 ML: 马鹿
+[2017-10-08T14:30:23.852000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: 哈哈哈大哥心里苦
+[2017-10-08T14:30:24.411000+08:00] <UCHTaEV-WywFZK1REkUKUR7g>  Huynh Thy: 哈哈哈
+[2017-10-08T14:30:38.282000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 潮大哥
+[2017-10-08T14:31:16.515000+08:00] <UC4YOZSrxBfFdvDZ19h7mm_A>  w: 又要變成我的大哥了...
+[2017-10-08T14:31:45.487000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 问言想得和我一样啊
+[2017-10-08T14:31:50.687000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 暴风雨之夜
+[2017-10-08T14:32:05.813000+08:00] <UC4YOZSrxBfFdvDZ19h7mm_A>  w: 集體婚禮或者兩個伴娘
+[2017-10-08T14:32:06.579000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 文豪
+[2017-10-08T14:32:32.217000+08:00] <UC4YOZSrxBfFdvDZ19h7mm_A>  w: 叉叉編的人魚...
+[2017-10-08T14:32:58.612000+08:00] <UCHKD-ay13VvD4jv3pVV7SOA>  ホウブンキ: 以哥之名公演
+[2017-10-08T14:33:35.477000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 兔牙委屈
+[2017-10-08T14:33:49.044000+08:00] <UC3vGGsHNOSL5PXsMHpkmCRg>  红股童: 兔牙
+[2017-10-08T14:35:05.453000+08:00] <UC3vGGsHNOSL5PXsMHpkmCRg>  红股童: 不要
+[2017-10-08T14:35:55.243000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 。。。
+[2017-10-08T14:37:12.750000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: 哈哈哈哈哈这call
+[2017-10-08T14:37:15.316000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 大哥拒绝
+[2017-10-08T14:37:19.407000+08:00] <UCxhVYXAEjTScprCiv5g7C5A>  Yijing Zeng: 666
+[2017-10-08T14:37:24.744000+08:00] <UCwLGQL1vTmRWqd3k08_Uc0g>  Song Ngư: 鹿宝宝
+[2017-10-08T14:37:25.227000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: 哈哈哈哈lisa宝贝
+[2017-10-08T14:38:19.405000+08:00] <UCHKD-ay13VvD4jv3pVV7SOA>  ホウブンキ: 叉叉笑的不行
+[2017-10-08T14:38:27.604000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: 哈哈哈
+[2017-10-08T14:38:27.626000+08:00] <UCxhVYXAEjTScprCiv5g7C5A>  Yijing Zeng: 哈哈哈
+[2017-10-08T14:38:31.219000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 小言委屈
+[2017-10-08T14:38:38.433000+08:00] <UCHKD-ay13VvD4jv3pVV7SOA>  ホウブンキ: 哈哈哈
+[2017-10-08T14:38:52.775000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 有谁知道sii什么时候有公演吗
+[2017-10-08T14:39:05.579000+08:00] <UCTywNc-XmcShJ-2lHnlUdQA>  李安臣: 張雅夢 怎麼沒上
+[2017-10-08T14:39:19.458000+08:00] <UC75df4jlcov1WUYsNKB_eZA>  黄痛痒: 退了
+[2017-10-08T14:39:19.659000+08:00] <UCxhVYXAEjTScprCiv5g7C5A>  Yijing Zeng: 张雅梦退团了
+[2017-10-08T14:39:24.810000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: 丫丫好像退团了哦
+[2017-10-08T14:39:42.121000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: 没退
+[2017-10-08T14:39:52.957000+08:00] <UCCkQ0z6L04ogNcwbOW5ng3A>  戰場上的子彈: 我比較喜歡 Remember you
+[2017-10-08T14:39:56.628000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: 外面说的
+[2017-10-08T14:39:56.997000+08:00] <UCIpqMPDa5i6BxC-NGYbbmZQ>  xiang ling: 为什么退团
+[2017-10-08T14:40:15.464000+08:00] <UCIDdtt9xPRszG3mk5rlXlcQ>  Esther Lee: 退了 去当空姐了 在南航
+[2017-10-08T14:40:22.962000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: 学业
+[2017-10-08T14:40:36.292000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 666
+[2017-10-08T14:40:42.993000+08:00] <UCHKD-ay13VvD4jv3pVV7SOA>  ホウブンキ: ？？？？？
+[2017-10-08T14:40:56.668000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: 她有飞行许可证
+[2017-10-08T14:41:19+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: 开飞机的
+[2017-10-08T14:41:34.521000+08:00] <UC4YOZSrxBfFdvDZ19h7mm_A>  w: ...空姐, 不是機長
+[2017-10-08T14:41:48.778000+08:00] <UCANb4i26M-rF7PVNy2S7cDQ>  nrjedjej: Is tingting come?
+[2017-10-08T14:42:18.461000+08:00] <UCxhVYXAEjTScprCiv5g7C5A>  Yijing Zeng: yes, but later in one of the units
+[2017-10-08T14:42:56.584000+08:00] <UC4YOZSrxBfFdvDZ19h7mm_A>  w: @娜娜
+[2017-10-08T14:43:18.096000+08:00] <UC4YOZSrxBfFdvDZ19h7mm_A>  w: 二水又浪了...
+[2017-10-08T14:43:22.362000+08:00] <UC3vGGsHNOSL5PXsMHpkmCRg>  红股童: 水水
+[2017-10-08T14:43:35.443000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: SHH
+[2017-10-08T14:43:37.598000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 。。。
+[2017-10-08T14:43:41.915000+08:00] <UCSmBzfpJZT-GyCiT8klvL6w>  quynh anh: :))
+[2017-10-08T14:43:42.163000+08:00] <UCHKD-ay13VvD4jv3pVV7SOA>  ホウブンキ: 好可怕
+[2017-10-08T14:43:45.049000+08:00] <UC4YOZSrxBfFdvDZ19h7mm_A>  w: 誰的是SNN?
+[2017-10-08T14:43:46.009000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: ...
+[2017-10-08T14:43:47.858000+08:00] <UCHKD-ay13VvD4jv3pVV7SOA>  ホウブンキ: ？？？？？？？
+[2017-10-08T14:43:48.321000+08:00] <UCev9XQ1g9LWvkw8UGUXmzxg>  mushroomXtank: wtf
+[2017-10-08T14:43:51.611000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 太不上心了
+[2017-10-08T14:43:55.516000+08:00] <UC1DuczZgAHswW9Jviajc2Pg>  Xiyan Mao: ？？
+[2017-10-08T14:43:55.628000+08:00] <UCxhVYXAEjTScprCiv5g7C5A>  Yijing Zeng: 卡了？
+[2017-10-08T14:43:56.756000+08:00] <UCfFPHrb6ipovj7Kg5_j8sfA>  嘉愛的酒心巧克力: 。。。
+[2017-10-08T14:43:58.930000+08:00] <UC5XMWhASF1QWBgyoQL9buKQ>  仁义智勇信: WTF
+[2017-10-08T14:43:58.969000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: GG
+[2017-10-08T14:44:01.651000+08:00] <UCHKD-ay13VvD4jv3pVV7SOA>  ホウブンキ: 又停了？
+[2017-10-08T14:44:07.215000+08:00] <UCANb4i26M-rF7PVNy2S7cDQ>  nrjedjej: thanks
+[2017-10-08T14:44:08.006000+08:00] <UCCkQ0z6L04ogNcwbOW5ng3A>  戰場上的子彈: GG
+[2017-10-08T14:44:10.987000+08:00] <UCAJJAaL51sAq8SiXzBQfPyQ>  aa199801161: ........
+[2017-10-08T14:44:12.559000+08:00] <UCAJJAaL51sAq8SiXzBQfPyQ>  aa199801161: ..............
+[2017-10-08T14:44:14.075000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 崽啊你没事看别人衣服干哈
+[2017-10-08T14:44:14.314000+08:00] <UCAJJAaL51sAq8SiXzBQfPyQ>  aa199801161: .....................
+[2017-10-08T14:44:16.181000+08:00] <UC5XMWhASF1QWBgyoQL9buKQ>  仁义智勇信: 这就停bo
+[2017-10-08T14:44:19.183000+08:00] <UCpmJUcMJaHweHGYgxzkVYTg>  陳泓佑: 水水的腰帶是SHH...
+[2017-10-08T14:44:34.227000+08:00] <UC5XMWhASF1QWBgyoQL9buKQ>  仁义智勇信: 服装被he'xie
+[2017-10-08T14:44:40.907000+08:00] <UCAJJAaL51sAq8SiXzBQfPyQ>  aa199801161: 回來嘞
+[2017-10-08T14:44:46.143000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: ...水水被黑屏了
+[2017-10-08T14:44:58.520000+08:00] <UCev9XQ1g9LWvkw8UGUXmzxg>  mushroomXtank: 水水的本名是？
+[2017-10-08T14:45:06.060000+08:00] <UCxhVYXAEjTScprCiv5g7C5A>  Yijing Zeng: 杨冰怡
+[2017-10-08T14:45:08.776000+08:00] <UC4YOZSrxBfFdvDZ19h7mm_A>  w: 楊冰怡
+[2017-10-08T14:45:18.110000+08:00] <UCev9XQ1g9LWvkw8UGUXmzxg>  mushroomXtank: 謝謝樓上
+[2017-10-08T14:45:21.614000+08:00] <UCSb_K0n5fpJtUxV5AE2Z_JA>  keenan1989: 可恶，今天做么突然一直卡
+[2017-10-08T14:45:25.705000+08:00] <UC2QFnJfPp9lwM3rtwHY0hGA>  hankies12: 橘子好漂亮呀
+[2017-10-08T14:45:33.495000+08:00] <UC4YOZSrxBfFdvDZ19h7mm_A>  w: 不知道小黃又開了什麼腦洞...
+[2017-10-08T14:45:37.355000+08:00] <UC5XMWhASF1QWBgyoQL9buKQ>  仁义智勇信: 水水来代yi
+[2017-10-08T14:45:47.778000+08:00] <UC75df4jlcov1WUYsNKB_eZA>  黄痛痒: 小黄
+[2017-10-08T14:46:10.310000+08:00] <UCxhVYXAEjTScprCiv5g7C5A>  Yijing Zeng: @十七
+[2017-10-08T14:46:13.275000+08:00] <UC4YOZSrxBfFdvDZ19h7mm_A>  w: 某次MC, 集體摸腿...
+[2017-10-08T14:46:19.317000+08:00] <UCSOhpL_oNc5BrRiNazMiGtw>  blankey jet city xjapan: この子可愛い
+[2017-10-08T14:46:49.066000+08:00] <UCev9XQ1g9LWvkw8UGUXmzxg>  mushroomXtank: 今天原版電話(´･ω･`)
+[2017-10-08T14:46:58.634000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: 小言好可爱好漂亮呀
+[2017-10-08T14:47:15.532000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 感觉好绿哦
+[2017-10-08T14:47:26.987000+08:00] <UC4YOZSrxBfFdvDZ19h7mm_A>  w: 虐?
+[2017-10-08T14:47:35.441000+08:00] <UCev9XQ1g9LWvkw8UGUXmzxg>  mushroomXtank: 是
+[2017-10-08T14:47:36.704000+08:00] <UC4YOZSrxBfFdvDZ19h7mm_A>  w: 略?
+[2017-10-08T14:48:49.489000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 很凶的吉娃娃
+[2017-10-08T14:49:07.429000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 怕不是对哈士奇有什么误解
+[2017-10-08T14:49:08.169000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 哈士奇比吉娃娃好在哪
+[2017-10-08T14:49:11.318000+08:00] <UCxhVYXAEjTScprCiv5g7C5A>  Yijing Zeng: 哈哈哈
+[2017-10-08T14:49:22.673000+08:00] <UC4YOZSrxBfFdvDZ19h7mm_A>  w: 拆家能力強
+[2017-10-08T14:49:34.264000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 666
+[2017-10-08T14:49:34.509000+08:00] <UCev9XQ1g9LWvkw8UGUXmzxg>  mushroomXtank: 月月比較呆萌(´･ω･`)
+[2017-10-08T14:49:47.386000+08:00] <UCev9XQ1g9LWvkw8UGUXmzxg>  mushroomXtank: 吉娃娃太吵
+[2017-10-08T14:50:04.245000+08:00] <UC4YOZSrxBfFdvDZ19h7mm_A>  w: 月月比較蠢...
+[2017-10-08T14:50:27.511000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 刻薄偶像
+[2017-10-08T14:50:51.968000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 鬼来电
+[2017-10-08T14:51:06.061000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: 哈哈哈 鬼来电
+[2017-10-08T14:51:35.834000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 大哥太委屈
+[2017-10-08T14:51:42.314000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: 1+2
+[2017-10-08T14:51:58.940000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 250
+[2017-10-08T14:51:59.797000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 666
+[2017-10-08T14:52:00.278000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 250
+[2017-10-08T14:52:01.893000+08:00] <UCfeBlTKVBnQdB4I1860e5Zw>  Lin Jung: 剛好趕上嘉愛
+[2017-10-08T14:52:04.578000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: 哈哈哈
+[2017-10-08T14:52:25.523000+08:00] <UC4YOZSrxBfFdvDZ19h7mm_A>  w: 嘉愛是一個形容詞...
+[2017-10-08T14:52:27.624000+08:00] <UCfeBlTKVBnQdB4I1860e5Zw>  Lin Jung: 易嘉愛
+[2017-10-08T14:53:07.243000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: lucky not yet 张雨鑫
+[2017-10-08T14:53:10.109000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 666
+[2017-10-08T14:53:13.322000+08:00] <UCfeBlTKVBnQdB4I1860e5Zw>  Lin Jung: 嘉愛可愛
+[2017-10-08T14:53:22.766000+08:00] <UCxhVYXAEjTScprCiv5g7C5A>  Yijing Zeng: 哈哈哈哈
+[2017-10-08T14:53:27.335000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 场场翻车
+[2017-10-08T14:53:35.033000+08:00] <UC5P2RCpr2FeC20X-4tSrDcA>  郁宸林: cute
+[2017-10-08T14:53:40.990000+08:00] <UCu8qdjpAy1cwPDb9vKdBTMg>  Phung Quach: cho mình hỏi qua nay không thấy tằng diễm phân , lâm tư ý
+[2017-10-08T14:53:47.131000+08:00] <UC4YOZSrxBfFdvDZ19h7mm_A>  w: 強迫症嘉愛...
+[2017-10-08T14:54:26.957000+08:00] <UC4YOZSrxBfFdvDZ19h7mm_A>  w: 之前updown funk的時候不是跳過這個風格麼
+[2017-10-08T14:54:35.831000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 鹿叉
+[2017-10-08T14:54:45.059000+08:00] <UCIc9znDV37nMzQRSDvcGv1Q>  Tài Nguyễn: Lâm Tư Ý đóng phim
+[2017-10-08T14:54:48.310000+08:00] <UCSmBzfpJZT-GyCiT8klvL6w>  quynh anh: Lâm Tư Ý bận đóng phim, Tằng Diễm Phân đau eo và dính phốt nên không lên
+[2017-10-08T14:54:52.757000+08:00] <UCIc9znDV37nMzQRSDvcGv1Q>  Tài Nguyễn: A Phân thì bận gì gì đó
+[2017-10-08T14:54:54.262000+08:00] <UCHTaEV-WywFZK1REkUKUR7g>  Huynh Thy: phân có việc nghĩ dưỡng bạn nhé
+[2017-10-08T14:55:29.512000+08:00] <UCev9XQ1g9LWvkw8UGUXmzxg>  mushroomXtank: 嘉愛發糧www
+[2017-10-08T14:55:33.415000+08:00] <UC40miKGLMWz0hTjcefcNdIQ>  高橋札幌: ٩( 'ω' )و
+[2017-10-08T14:55:59.804000+08:00] <UCxhVYXAEjTScprCiv5g7C5A>  Yijing Zeng: 66666
+[2017-10-08T14:56:00.811000+08:00] <UC4YOZSrxBfFdvDZ19h7mm_A>  w: 章魚寶寶...
+[2017-10-08T14:56:25.889000+08:00] <UCev9XQ1g9LWvkw8UGUXmzxg>  mushroomXtank: 章魚是隔壁的吧www
+[2017-10-08T14:56:47.754000+08:00] <UC4YOZSrxBfFdvDZ19h7mm_A>  w: 去掉鑫就是章魚...
+[2017-10-08T14:57:07.666000+08:00] <UCev9XQ1g9LWvkw8UGUXmzxg>  mushroomXtank: 是啊www
+[2017-10-08T14:57:09.526000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 不值得
+[2017-10-08T14:57:45.247000+08:00] <UC40miKGLMWz0hTjcefcNdIQ>  高橋札幌: ٩( 'ω' )و
+[2017-10-08T14:58:00.503000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 刚起床就来看直播
+[2017-10-08T14:58:02.628000+08:00] <UC_E9hbh9rSAjI9vTNH9xQ0Q>  Silicon FW: この子 可愛い😘~😁💞 なんか親近感あるよ
+[2017-10-08T14:58:15.500000+08:00] <UCev9XQ1g9LWvkw8UGUXmzxg>  mushroomXtank: 今天的solo曲誰唱
+[2017-10-08T14:58:17.745000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 婚纱play
+[2017-10-08T14:58:32.631000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 扎心了
+[2017-10-08T14:58:35.162000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 欺负星羽
+[2017-10-08T14:58:37.397000+08:00] <UCxhVYXAEjTScprCiv5g7C5A>  Yijing Zeng: 星羽你好像暴露了什么
+[2017-10-08T14:58:51.085000+08:00] <UCu8qdjpAy1cwPDb9vKdBTMg>  Phung Quach: oh cám ơn mấy bạn
+[2017-10-08T14:59:06.206000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 我听到非礼you...
+[2017-10-08T14:59:06.704000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: haha
+[2017-10-08T15:00:17.648000+08:00] <UCxxXMHRhZvOs5bKXPW1Yz-A>  鍾昀儒: 😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍
+[2017-10-08T15:01:21.163000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 在世界的中心呼唤爱
+[2017-10-08T15:01:29.581000+08:00] <UC40miKGLMWz0hTjcefcNdIQ>  高橋札幌: イートン見逃した〜
+[2017-10-08T15:02:39.505000+08:00] <UCHTaEV-WywFZK1REkUKUR7g>  Huynh Thy: 朵朵
+[2017-10-08T15:02:51.807000+08:00] <UCCkQ0z6L04ogNcwbOW5ng3A>  戰場上的子彈: 😍😘😍😘😍😘😍😘
+[2017-10-08T15:03:11.468000+08:00] <UCqzpNaawCS-_u8F28SFyAbQ>  Love rain 雨戀: 我想看她們表演BINGO😍
+[2017-10-08T15:03:59.042000+08:00] <UC7x0YhB6a-tjcj2DgnS4CoA>  喵 喵: 朵朵最棒了
+[2017-10-08T15:04:00.154000+08:00] <UC4J-ei-FCnjnvAWNAS_I8yw>  陳馨: 今天會有小鞠嗎
+[2017-10-08T15:04:07.978000+08:00] <UCev9XQ1g9LWvkw8UGUXmzxg>  mushroomXtank: 不會
+[2017-10-08T15:04:13.886000+08:00] <UC4J-ei-FCnjnvAWNAS_I8yw>  陳馨: 好吧
+[2017-10-08T15:04:28.461000+08:00] <UCev9XQ1g9LWvkw8UGUXmzxg>  mushroomXtank: 小菊很久沒上公演了
+[2017-10-08T15:04:37.930000+08:00] <UCLn2hxN8sP7kHjhPdER8QPg>  GRACE MA: 小鞠根本沒空上吧
+[2017-10-08T15:04:46.765000+08:00] <UC4J-ei-FCnjnvAWNAS_I8yw>  陳馨: 拍戲
+[2017-10-08T15:04:49.474000+08:00] <UCev9XQ1g9LWvkw8UGUXmzxg>  mushroomXtank: 拍戲
+[2017-10-08T15:04:52.786000+08:00] <UCA1Wp24l2yKWS_hODzmRYtg>  侯少卿: 这个1080比b站清晰很多嘛？。。。怎么直观上差不多
+[2017-10-08T15:04:52.856000+08:00] <UCBun9g5LAJwJFEkqgUHYsxw>  陈仁惠: 拍戏
+[2017-10-08T15:04:55.244000+08:00] <UCBun9g5LAJwJFEkqgUHYsxw>  陈仁惠: 小四也是
+[2017-10-08T15:05:48.396000+08:00] <UC4YOZSrxBfFdvDZ19h7mm_A>  w: 720的輸入, 1080的輸出並沒有什麼用
+[2017-10-08T15:06:07.146000+08:00] <UCSozDlQYh5mLEdl7EJEsGkw>  SINICHI OGAWA: 今の、メンバーの名前が分からないです！
+[2017-10-08T15:06:37.057000+08:00] <UCHTaEV-WywFZK1REkUKUR7g>  Huynh Thy: 赵粤
+[2017-10-08T15:06:44.598000+08:00] <UCHTaEV-WywFZK1REkUKUR7g>  Huynh Thy: 娜娜
+[2017-10-08T15:07:39.738000+08:00] <UC_E9hbh9rSAjI9vTNH9xQ0Q>  Silicon FW: ごめんね、日本語わかる詳しい人、今日はいない
+[2017-10-08T15:07:42.348000+08:00] <UCSozDlQYh5mLEdl7EJEsGkw>  SINICHI OGAWA: 加油(^-^ゞ
+[2017-10-08T15:07:51.695000+08:00] <UCrWwqO-ffq3-WXmd6UJqL4A>  Lia Lia: センター：冯薪朵、向かって左：何晓玉、右：陈问言
+[2017-10-08T15:07:52.613000+08:00] <UCSmBzfpJZT-GyCiT8klvL6w>  quynh anh: SNH ING
+[2017-10-08T15:07:58.603000+08:00] <UCev9XQ1g9LWvkw8UGUXmzxg>  mushroomXtank: KTT上solo曲嗎？
+[2017-10-08T15:08:24.064000+08:00] <UCIN__iBq7mAQUzKNOyMXkEQ>  慏 慏: 這哪一隊呀
+[2017-10-08T15:08:31.045000+08:00] <UCev9XQ1g9LWvkw8UGUXmzxg>  mushroomXtank: n
+[2017-10-08T15:08:33.553000+08:00] <UClne40c6nmobHBiGz4jpA6w>  Mi Xiao: N
+[2017-10-08T15:08:35.436000+08:00] <UCIN__iBq7mAQUzKNOyMXkEQ>  慏 慏: n隊嗎
+[2017-10-08T15:08:48.311000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: team nii
+[2017-10-08T15:08:48.329000+08:00] <UCuNZTcBNLR0DqbQSpYNzGxg>  只愛一個人: n
+[2017-10-08T15:09:37.372000+08:00] <UC4J-ei-FCnjnvAWNAS_I8yw>  陳馨: n
+[2017-10-08T15:10:01.912000+08:00] <UCHTaEV-WywFZK1REkUKUR7g>  Huynh Thy: 大哥
+[2017-10-08T15:10:06.252000+08:00] <UCtuMuLWJ2LZbtAhBeiqnVsg>  X X: 未接来电来了
+[2017-10-08T15:10:07.201000+08:00] <UCDGmux8sDTt5O8OE40FtJBQ>  Diệp Tiểu Lạc: N2
+[2017-10-08T15:10:11.854000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: 陆婷~~
+[2017-10-08T15:10:15.491000+08:00] <UCJXKMQrKuaakVK1UK_LFsVw>  Nanashi: 大哥来了
+[2017-10-08T15:10:26.301000+08:00] <UCUIhzsHZ4i67O4mq6wYl9dg> *Seine 48: 鬼来电
+[2017-10-08T15:10:36.753000+08:00] <UCIN__iBq7mAQUzKNOyMXkEQ>  慏 慏: 小鞠真的很久沒公演了
+[2017-10-08T15:10:44.551000+08:00] <UCCkQ0z6L04ogNcwbOW5ng3A>  戰場上的子彈: 😍😍😍😍😍😍😍
+[2017-10-08T15:10:44.649000+08:00] <UCBun9g5LAJwJFEkqgUHYsxw>  陈仁惠: 来打电话讨学费了
+[2017-10-08T15:10:46.779000+08:00] <UC4J-ei-FCnjnvAWNAS_I8yw>  陳馨: 真的
+[2017-10-08T15:10:50.851000+08:00] <UCbn6WPgx5VyVpGIfUnoUs2Q>  Lisa1218: 鬼来电 是什么鬼 哈哈哈哈
+[2017-10-08T15:11:12.156000+08:00] <UCBun9g5LAJwJFEkqgUHYsxw>  陈仁惠: 大哥接电话w 生活费没了w
+[2017-10-08T15:11:31.639000+08:00] <UCtuMuLWJ2LZbtAhBeiqnVsg>  X X: 大哥头发撒水了😂
+[2017-10-08T15:11:32.200000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: 头发真的打湿了耶
+[2017-10-08T15:11:41.493000+08:00] <UCtuMuLWJ2LZbtAhBeiqnVsg>  X X: 还真的
+[2017-10-08T15:11:45.757000+08:00] <UCBun9g5LAJwJFEkqgUHYsxw>  陈仁惠: 头发真的洒水666666
+[2017-10-08T15:11:53.406000+08:00] <UC7x0YhB6a-tjcj2DgnS4CoA>  喵 喵: 大哥！！
+[2017-10-08T15:11:54.607000+08:00] <UCJXKMQrKuaakVK1UK_LFsVw>  Nanashi: 哈哈哈哈哈哈小fell
+[2017-10-08T15:12:05.850000+08:00] <UCJXKMQrKuaakVK1UK_LFsVw>  Nanashi: feel
+[2017-10-08T15:12:13.991000+08:00] <UCJXKMQrKuaakVK1UK_LFsVw>  Nanashi: 手都飘了
+[2017-10-08T15:12:31.559000+08:00] <UCHKD-ay13VvD4jv3pVV7SOA>  ホウブンキ: 洒水车
+[2017-10-08T15:12:36.624000+08:00] <UCtuMuLWJ2LZbtAhBeiqnVsg>  X X: 要摸腿了
+[2017-10-08T15:12:39.581000+08:00] <UCtuMuLWJ2LZbtAhBeiqnVsg>  X X: 啊啊啊啊啊
+[2017-10-08T15:12:45.651000+08:00] <UCpOG5PXUM3qI1KKHiZ9p0Rw>  淡淡: 恩
+[2017-10-08T15:12:47.017000+08:00] <UCSozDlQYh5mLEdl7EJEsGkw>  SINICHI OGAWA: 大家好(^-^)/
+[2017-10-08T15:12:51.137000+08:00] <UCpOG5PXUM3qI1KKHiZ9p0Rw>  淡淡: 好棒
+[2017-10-08T15:13:02.339000+08:00] <UCSOhpL_oNc5BrRiNazMiGtw>  blankey jet city xjapan: この子可愛すぎ
+[2017-10-08T15:13:10.509000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: 大哥和小言同步率好高哦
+[2017-10-08T15:13:57.077000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: そですね
+[2017-10-08T15:15:07.581000+08:00] <UC_E9hbh9rSAjI9vTNH9xQ0Q>  Silicon FW: 足とかスタイルいいね
+[2017-10-08T15:15:10.891000+08:00] <UCpOG5PXUM3qI1KKHiZ9p0Rw>  淡淡: 棒棒
+[2017-10-08T15:15:58.262000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: 來了
+[2017-10-08T15:15:59.825000+08:00] <UCViJ02I3JB8gGW7al9oxRmg>  Hana 谢蕾蕾女饭: 春夏秋冬
+[2017-10-08T15:16:00.552000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: 这首好听哦
+[2017-10-08T15:16:02.407000+08:00] <UCev9XQ1g9LWvkw8UGUXmzxg>  mushroomXtank: 極樂淨土來了www
+[2017-10-08T15:16:11.080000+08:00] <UCUIhzsHZ4i67O4mq6wYl9dg> *Seine 48: 水水
+[2017-10-08T15:16:12.267000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 发卡b50预定
+[2017-10-08T15:16:15.261000+08:00] <UCJXKMQrKuaakVK1UK_LFsVw>  Nanashi: 23333
+[2017-10-08T15:16:16.530000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: 又來洗腦了
+[2017-10-08T15:16:18.108000+08:00] <UCHKD-ay13VvD4jv3pVV7SOA>  ホウブンキ: 不像极乐净土啊。。。
+[2017-10-08T15:16:24.204000+08:00] <UCSmBzfpJZT-GyCiT8klvL6w>  quynh anh: 水水 ❤
+[2017-10-08T15:16:26.764000+08:00] <UCJXKMQrKuaakVK1UK_LFsVw>  Nanashi: 这个很洗脑了
+[2017-10-08T15:16:36.302000+08:00] <UCViJ02I3JB8gGW7al9oxRmg>  Hana 谢蕾蕾女饭: 杨冰怡
+[2017-10-08T15:16:38.825000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 这首歌原版就是日语歌
+[2017-10-08T15:16:40.379000+08:00] <UCIDdtt9xPRszG3mk5rlXlcQ>  Esther Lee: 李艺彤！！！！
+[2017-10-08T15:16:43.906000+08:00] <UCbn6WPgx5VyVpGIfUnoUs2Q>  Lisa1218: 有点类似
+[2017-10-08T15:16:45.824000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 洗脑也要听
+[2017-10-08T15:16:50.984000+08:00] <UCev9XQ1g9LWvkw8UGUXmzxg>  mushroomXtank: 卡哥b50預定是人間規則
+[2017-10-08T15:16:57.457000+08:00] <UCHKD-ay13VvD4jv3pVV7SOA>  ホウブンキ: 只是节拍类似吧
+[2017-10-08T15:17:18.847000+08:00] <UCIDdtt9xPRszG3mk5rlXlcQ>  Esther Lee: 日本人编的曲
+[2017-10-08T15:17:22.915000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 人间规则好老了啊 新公演这首感觉很好啊
+[2017-10-08T15:17:28.751000+08:00] <UCHTaEV-WywFZK1REkUKUR7g>  Huynh Thy: 李艺彤
+[2017-10-08T15:17:32.237000+08:00] <UCSOhpL_oNc5BrRiNazMiGtw>  blankey jet city xjapan: いつになったらルーリーとかkikuはでるの？
+[2017-10-08T15:18:00.562000+08:00] <UCCkQ0z6L04ogNcwbOW5ng3A>  戰場上的子彈: 還蠻好聽
+[2017-10-08T15:18:09.854000+08:00] <UCViJ02I3JB8gGW7al9oxRmg>  Hana 谢蕾蕾女饭: 我只认识李艺彤和杨冰怡 其他两个是谁啊
+[2017-10-08T15:18:16.255000+08:00] <UClne40c6nmobHBiGz4jpA6w>  Mi Xiao: 好聽
+[2017-10-08T15:18:17.925000+08:00] <UCFpDvmlImUtPwYu5BWoFkTw>  Hao Chen: 好好听这歌
+[2017-10-08T15:18:21.837000+08:00] <UCxhVYXAEjTScprCiv5g7C5A>  Yijing Zeng: 黄彤扬 江真仪
+[2017-10-08T15:18:28.138000+08:00] <UCHKD-ay13VvD4jv3pVV7SOA>  ホウブンキ: ルーリーとキクちゃんどちらもいないよ
+[2017-10-08T15:18:41.293000+08:00] <UCSozDlQYh5mLEdl7EJEsGkw>  SINICHI OGAWA: ＳＮＨ48のメンバーは美人揃いですね(^^)d
+[2017-10-08T15:18:41.938000+08:00] <UCCkQ0z6L04ogNcwbOW5ng3A>  戰場上的子彈: 感覺聽起來曲風怎麼像是廟會裡的曲風阿
+[2017-10-08T15:18:44.224000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: 橙色衣服 江真仪 粉丝衣服 黄彤扬~
+[2017-10-08T15:18:46.620000+08:00] <UCSOhpL_oNc5BrRiNazMiGtw>  blankey jet city xjapan: そうっすか。。。
+[2017-10-08T15:19:10.013000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: ACG既视感
+[2017-10-08T15:19:10.285000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: 90年代風
+[2017-10-08T15:19:23.067000+08:00] <UCCkQ0z6L04ogNcwbOW5ng3A>  戰場上的子彈: 把它改成電音
+[2017-10-08T15:19:23.938000+08:00] <UCViJ02I3JB8gGW7al9oxRmg>  Hana 谢蕾蕾女饭: 这首真好听 洗脑了
+[2017-10-08T15:19:33.223000+08:00] <UClne40c6nmobHBiGz4jpA6w>  Mi Xiao: 這公演最曲風。
+[2017-10-08T15:19:33.608000+08:00] <UCxhVYXAEjTScprCiv5g7C5A>  Yijing Zeng: 适合我这种90后老人
+[2017-10-08T15:19:37.429000+08:00] <UCSri3GAC0uBVrWKVO7ADjbQ>  C.y Ng: 表白发卡
+[2017-10-08T15:19:40.222000+08:00] <UCHKD-ay13VvD4jv3pVV7SOA>  ホウブンキ: 好像热血动画的op
+[2017-10-08T15:19:44.491000+08:00] <UCCkQ0z6L04ogNcwbOW5ng3A>  戰場上的子彈: 很棒
+[2017-10-08T15:19:44.899000+08:00] <UC_E9hbh9rSAjI9vTNH9xQ0Q>  Silicon FW: 連休だから、普段は学業で忙しいメンバーを優先した？
+[2017-10-08T15:19:54.256000+08:00] <UCev9XQ1g9LWvkw8UGUXmzxg>  mushroomXtank: 宅舞www
+[2017-10-08T15:19:58.459000+08:00] <UCbF2MRDaISofOgkPyM8Gbgw>  Ngố Tàu: NII
+[2017-10-08T15:19:58.610000+08:00] <UCViJ02I3JB8gGW7al9oxRmg>  Hana 谢蕾蕾女饭: 这歌加速会好听吗
+[2017-10-08T15:20:12.739000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: 我試一下
+[2017-10-08T15:20:30.234000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: 這個可愛
+[2017-10-08T15:20:33.674000+08:00] <UCSb_K0n5fpJtUxV5AE2Z_JA>  keenan1989: 这首很适合卡宝，卡宝驾驭的很棒
+[2017-10-08T15:20:41.976000+08:00] <UC4YOZSrxBfFdvDZ19h7mm_A>  w: 等官方音源...
+[2017-10-08T15:20:45.173000+08:00] <UCViJ02I3JB8gGW7al9oxRmg>  Hana 谢蕾蕾女饭: 易嘉爱易嘉爱易嘉爱！
+[2017-10-08T15:20:45.674000+08:00] <UCfeBlTKVBnQdB4I1860e5Zw>  Lin Jung: 表白嘉愛
+[2017-10-08T15:20:49.812000+08:00] <UC_E9hbh9rSAjI9vTNH9xQ0Q>  Silicon FW: 婚礼衣装曲「やりたい」って、メンバー内で人気かもねぇ
+[2017-10-08T15:20:53.149000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: 官方音源出了
+[2017-10-08T15:20:58.738000+08:00] <UCUIhzsHZ4i67O4mq6wYl9dg> *Seine 48: 音源出了
+[2017-10-08T15:20:59.270000+08:00] <UCJXKMQrKuaakVK1UK_LFsVw>  Nanashi: 咪咕
+[2017-10-08T15:21:05.456000+08:00] <UCBun9g5LAJwJFEkqgUHYsxw>  陈仁惠: 官方已经出音源了
+[2017-10-08T15:21:21.389000+08:00] <UC4J-ei-FCnjnvAWNAS_I8yw>  陳馨: 嗯？這昨天有播過了
+[2017-10-08T15:21:27.682000+08:00] <UCHKD-ay13VvD4jv3pVV7SOA>  ホウブンキ: ルーリーは腰痛だから。。。
+[2017-10-08T15:21:30.396000+08:00] <UC4YOZSrxBfFdvDZ19h7mm_A>  w: ...咪咕, 我在官網找的
+[2017-10-08T15:21:54.429000+08:00] <UCJXKMQrKuaakVK1UK_LFsVw>  Nanashi: 我翻回国内下载的
+[2017-10-08T15:21:58.924000+08:00] <UCev9XQ1g9LWvkw8UGUXmzxg>  mushroomXtank: 新公演會連演3場
+[2017-10-08T15:22:11.911000+08:00] <UC4J-ei-FCnjnvAWNAS_I8yw>  陳馨: 喔～
+[2017-10-08T15:22:17.190000+08:00] <UCBBOfT7s6ciwW8X-y__X0HA>  Tran Hiep: bất đồng ngôn ngữ thật là khổ ^^!
+[2017-10-08T15:22:29.044000+08:00] <UCBun9g5LAJwJFEkqgUHYsxw>  陈仁惠: 3场? 我以为就 这两天
+[2017-10-08T15:22:33.862000+08:00] <UCSOhpL_oNc5BrRiNazMiGtw>  blankey jet city xjapan: ヘルニアかなんかっすか
+[2017-10-08T15:22:42.775000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 两场吧
+[2017-10-08T15:22:48.370000+08:00] <UCHKD-ay13VvD4jv3pVV7SOA>  ホウブンキ: 2场
+[2017-10-08T15:22:50.318000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: 兩場
+[2017-10-08T15:22:51.623000+08:00] <UCJXKMQrKuaakVK1UK_LFsVw>  Nanashi: 昨天和今天
+[2017-10-08T15:22:56.544000+08:00] <UCHKD-ay13VvD4jv3pVV7SOA>  ホウブンキ: 首演就昨天今天了
+[2017-10-08T15:22:58.853000+08:00] <UCCkQ0z6L04ogNcwbOW5ng3A>  戰場上的子彈: 那結尾還會唱Remember you 嗎
+[2017-10-08T15:22:59.503000+08:00] <UCev9XQ1g9LWvkw8UGUXmzxg>  mushroomXtank: 今天只有午場嗎(´･ω･`)
+[2017-10-08T15:23:02.169000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: GG
+[2017-10-08T15:23:05.886000+08:00] <UCBun9g5LAJwJFEkqgUHYsxw>  陈仁惠: 会啊
+[2017-10-08T15:23:06.638000+08:00] <UCpOG5PXUM3qI1KKHiZ9p0Rw>  淡淡: 真美女欸
+[2017-10-08T15:23:06.874000+08:00] <UCHKD-ay13VvD4jv3pVV7SOA>  ホウブンキ: 会的
+[2017-10-08T15:23:14.381000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 就说哪里来的三场
+[2017-10-08T15:23:18.625000+08:00] <UCHKD-ay13VvD4jv3pVV7SOA>  ホウブンキ: 又gg了
+[2017-10-08T15:23:19.630000+08:00] <UCBun9g5LAJwJFEkqgUHYsxw>  陈仁惠: 对啊 就这场了
+[2017-10-08T15:23:23.045000+08:00] <UCfeBlTKVBnQdB4I1860e5Zw>  Lin Jung: 感覺今天的嘉愛比昨天更可愛了
+[2017-10-08T15:23:36.694000+08:00] <UCev9XQ1g9LWvkw8UGUXmzxg>  mushroomXtank: 所以今天只有午場Σ(￣。￣ﾉ)ﾉ
+[2017-10-08T15:23:38.502000+08:00] <UCCkQ0z6L04ogNcwbOW5ng3A>  戰場上的子彈: 我不知道我聽幾次了
+[2017-10-08T15:23:38.701000+08:00] <UCSb_K0n5fpJtUxV5AE2Z_JA>  keenan1989: LAG...
+[2017-10-08T15:23:39.617000+08:00] <UCBun9g5LAJwJFEkqgUHYsxw>  陈仁惠: 下个星期也没有恩的公演(笑容渐渐消失
+[2017-10-08T15:23:41.406000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 突然觉得这首歌写得很好
+[2017-10-08T15:23:43.948000+08:00] <UCrWwqO-ffq3-WXmd6UJqL4A>  Lia Lia: ルリももう年だからね
+[2017-10-08T15:23:51.797000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 官网只写了两场
+[2017-10-08T15:23:52.330000+08:00] <UCCkQ0z6L04ogNcwbOW5ng3A>  戰場上的子彈: 至少有15次吧
+[2017-10-08T15:24:07.106000+08:00] <UCHKD-ay13VvD4jv3pVV7SOA>  ホウブンキ: 厳しいな
+[2017-10-08T15:24:11.227000+08:00] <UCBun9g5LAJwJFEkqgUHYsxw>  陈仁惠: 阿黄!!! (摇摆
+[2017-10-08T15:24:12.578000+08:00] <UCev9XQ1g9LWvkw8UGUXmzxg>  mushroomXtank: N要湊齊16人很困難(´･ω･`)
+[2017-10-08T15:24:12.871000+08:00] <UCViJ02I3JB8gGW7al9oxRmg>  Hana 谢蕾蕾女饭: 黄婷婷~~~~~
+[2017-10-08T15:24:31.161000+08:00] <UCBun9g5LAJwJFEkqgUHYsxw>  陈仁惠: 好帅(捂脸
+[2017-10-08T15:24:51.511000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 橘子和兔牙舞蹈真的不错感觉
+[2017-10-08T15:25:01.388000+08:00] <UCJXKMQrKuaakVK1UK_LFsVw>  Nanashi: N队top太忙了.凑16个跳公演比较难.
+[2017-10-08T15:25:01.766000+08:00] <UCBun9g5LAJwJFEkqgUHYsxw>  陈仁惠: 裤子剪了w
+[2017-10-08T15:25:52.756000+08:00] <UCHKD-ay13VvD4jv3pVV7SOA>  ホウブンキ: 应该是把扣子解开了吧
+[2017-10-08T15:26:04.946000+08:00] <UCHKD-ay13VvD4jv3pVV7SOA>  ホウブンキ: 感觉还能扣上
+[2017-10-08T15:26:17.014000+08:00] <UCHTaEV-WywFZK1REkUKUR7g>  Huynh Thy: 婷婷
+[2017-10-08T15:26:35.046000+08:00] <UCpOG5PXUM3qI1KKHiZ9p0Rw>  淡淡: 婷婷
+[2017-10-08T15:26:43.088000+08:00] <UCpOG5PXUM3qI1KKHiZ9p0Rw>  淡淡: 漂亮喔
+[2017-10-08T15:27:11.472000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: 好聽
+[2017-10-08T15:27:17.363000+08:00] <UCHTaEV-WywFZK1REkUKUR7g>  Huynh Thy: 黄婷婷 !!!
+[2017-10-08T15:27:19.917000+08:00] <UCev9XQ1g9LWvkw8UGUXmzxg>  mushroomXtank: 今天沒有晚場QAQQQ（以為晚上可以看髮卡
+[2017-10-08T15:27:31.258000+08:00] <UCzMdNJ38JDb-0cL64cGJ1cQ>  黃昱安: 褲子很像快掉了
+[2017-10-08T15:28:03.214000+08:00] <UCxhVYXAEjTScprCiv5g7C5A>  Yijing Zeng: 老年人睡觉去了，各位再见
+[2017-10-08T15:28:18.794000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 88
+[2017-10-08T15:28:31.745000+08:00] <UCev9XQ1g9LWvkw8UGUXmzxg>  mushroomXtank: 超貴mc來了
+[2017-10-08T15:28:35.380000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 拜拜
+[2017-10-08T15:28:48.913000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 硬糖
+[2017-10-08T15:29:11.930000+08:00] <UCfeBlTKVBnQdB4I1860e5Zw>  Lin Jung: 拜拜
+[2017-10-08T15:29:18.688000+08:00] <UCHTaEV-WywFZK1REkUKUR7g>  Huynh Thy: 婷婷
+[2017-10-08T15:29:24.049000+08:00] <UCev9XQ1g9LWvkw8UGUXmzxg>  mushroomXtank: 88888888
+[2017-10-08T15:29:34.500000+08:00] <UCSb_K0n5fpJtUxV5AE2Z_JA>  keenan1989: 刀片型耳饰？？
+[2017-10-08T15:29:57.387000+08:00] <UCfeBlTKVBnQdB4I1860e5Zw>  Lin Jung: 女飯真的好多喔！！！
+[2017-10-08T15:30:02.594000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 婷婷只上unit吗
+[2017-10-08T15:30:17.930000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 可能还有后面c的歌吧
+[2017-10-08T15:30:20.725000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: htt的耳環好像刀片
+[2017-10-08T15:30:37.978000+08:00] <UCCkQ0z6L04ogNcwbOW5ng3A>  戰場上的子彈: 美工刀片嗎
+[2017-10-08T15:30:44.196000+08:00] <UC4YOZSrxBfFdvDZ19h7mm_A>  w: death note
+[2017-10-08T15:30:45.225000+08:00] <UCSOhpL_oNc5BrRiNazMiGtw>  blankey jet city xjapan: すげー客席旗が多い
+[2017-10-08T15:31:01.406000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 每场人不一样666
+[2017-10-08T15:31:10.823000+08:00] <UCCkQ0z6L04ogNcwbOW5ng3A>  戰場上的子彈: 23333333333
+[2017-10-08T15:31:48.017000+08:00] <UC_E9hbh9rSAjI9vTNH9xQ0Q>  Silicon FW: 応援グッズって、劇場で保管できるらしい
+[2017-10-08T15:32:04.324000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 会长厉害了
+[2017-10-08T15:32:07.400000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 辣宝气坏了
+[2017-10-08T15:32:11.844000+08:00] <UCSOhpL_oNc5BrRiNazMiGtw>  blankey jet city xjapan: そうなんだ親切やね
+[2017-10-08T15:33:11.102000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: 哈哈哈哈
+[2017-10-08T15:33:14.968000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 机智
+[2017-10-08T15:33:34.874000+08:00] <UC_E9hbh9rSAjI9vTNH9xQ0Q>  Silicon FW: だから、消防検査あるから、一度全部持って帰れと通達あった
+[2017-10-08T15:33:44.046000+08:00] <UCCkQ0z6L04ogNcwbOW5ng3A>  戰場上的子彈: 😎😎😎😎
+[2017-10-08T15:33:44.604000+08:00] <UCev9XQ1g9LWvkw8UGUXmzxg>  mushroomXtank: （試了一下覺得1.25倍的春夏秋冬不錯聽
+[2017-10-08T15:33:53.969000+08:00] <UC7wOnBbv5s75sxfVcVt906Q>  莊淯淳: 😀
+[2017-10-08T15:34:05.968000+08:00] <UCSOhpL_oNc5BrRiNazMiGtw>  blankey jet city xjapan: 詳しいですね
+[2017-10-08T15:34:07.799000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 突然文艺
+[2017-10-08T15:34:27.069000+08:00] <UC_E9hbh9rSAjI9vTNH9xQ0Q>  Silicon FW: どっかに書いてあったよ
+[2017-10-08T15:34:39.399000+08:00] <UCev9XQ1g9LWvkw8UGUXmzxg>  mushroomXtank: （可是調快就回不去了
+[2017-10-08T15:34:44.542000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: 66666666666
+[2017-10-08T15:34:53.752000+08:00] <UCB0rJ_pXppFUo4S_fNaUV9g>  Yvonnie Wong: 666666666
+[2017-10-08T15:35:00.495000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: 233333333333333
+[2017-10-08T15:35:11.689000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 突然喊麦
+[2017-10-08T15:35:11.948000+08:00] <UCfeBlTKVBnQdB4I1860e5Zw>  Lin Jung: 666666
+[2017-10-08T15:35:16.608000+08:00] <UCJXKMQrKuaakVK1UK_LFsVw>  Nanashi: 哈哈哈哈哈哈哈哈哈大哥无语了
+[2017-10-08T15:35:24.124000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 233333
+[2017-10-08T15:35:38.926000+08:00] <UC2QFnJfPp9lwM3rtwHY0hGA>  hankies12: 可以呀
+[2017-10-08T15:35:52.687000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 扎心了
+[2017-10-08T15:35:53.605000+08:00] <UCJXKMQrKuaakVK1UK_LFsVw>  Nanashi: 大哥蒙蔽
+[2017-10-08T15:35:57.496000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: GG
+[2017-10-08T15:35:58.673000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: 哈哈哈哈
+[2017-10-08T15:36:05.249000+08:00] <UCieZ5HVrfCBRtFWf8V6Ll3Q>  豫: hhhhh
+[2017-10-08T15:36:39.810000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: GG
+[2017-10-08T15:36:50.145000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 卡
+[2017-10-08T15:36:56.988000+08:00] <UCSb_K0n5fpJtUxV5AE2Z_JA>  keenan1989: 直播GG==#
+[2017-10-08T15:37:10.150000+08:00] <UCSOhpL_oNc5BrRiNazMiGtw>  blankey jet city xjapan: ルーリーってまだ２０代だからまだまだ踊れるよね？安室は４０でも踊ってるんだし
+[2017-10-08T15:37:11.096000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 我还以为只有我卡
+[2017-10-08T15:37:13.315000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 没声音
+[2017-10-08T15:37:16.766000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: 突然跳转，突然静音，猝不及防
+[2017-10-08T15:37:26.769000+08:00] <UCSb_K0n5fpJtUxV5AE2Z_JA>  keenan1989: 不对口型了....
+[2017-10-08T15:37:32.479000+08:00] <UC-2nwj3tvZkh7zBzqssOyCw>  Sy__ JDalzet: ......
+[2017-10-08T15:37:34.419000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 。。。
+[2017-10-08T15:37:38.676000+08:00] <UCBun9g5LAJwJFEkqgUHYsxw>  陈仁惠: 一脸懵
+[2017-10-08T15:37:41.691000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 声音不对
+[2017-10-08T15:37:42.237000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: f5
+[2017-10-08T15:37:43.835000+08:00] <UCFZCYSG-pci-iTCFu3AaACQ>  Wake Cit: 絕了
+[2017-10-08T15:37:44.529000+08:00] <UCfeBlTKVBnQdB4I1860e5Zw>  Lin Jung: 這啥？
+[2017-10-08T15:37:49.166000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: 音画不同步？
+[2017-10-08T15:37:58.722000+08:00] <UCSOhpL_oNc5BrRiNazMiGtw>  blankey jet city xjapan: なんだ？
+[2017-10-08T15:37:59.486000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 刷新试试
+[2017-10-08T15:37:59.690000+08:00] <UCfFPHrb6ipovj7Kg5_j8sfA>  嘉愛的酒心巧克力: F5沒用
+[2017-10-08T15:38:03.149000+08:00] <UCLJt5F6dm7rs-wIRQ05B74w>  Sophie Lo: 不同步啊
+[2017-10-08T15:38:06.793000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 我好了
+[2017-10-08T15:38:12.367000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 不是我们的问题
+[2017-10-08T15:38:23.496000+08:00] <UCBun9g5LAJwJFEkqgUHYsxw>  陈仁惠: ==
+[2017-10-08T15:38:28.163000+08:00] <UCBun9g5LAJwJFEkqgUHYsxw>  陈仁惠: 要去B站
+[2017-10-08T15:38:28.879000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 我还没好
+[2017-10-08T15:38:31.500000+08:00] <UCSb_K0n5fpJtUxV5AE2Z_JA>  keenan1989: 刷新还是不同步
+[2017-10-08T15:38:33.221000+08:00] <UCfeBlTKVBnQdB4I1860e5Zw>  Lin Jung: 完全不同步
+[2017-10-08T15:38:36.549000+08:00] <UC_E9hbh9rSAjI9vTNH9xQ0Q>  Silicon FW: 普通、２０代でヘルニアは滅多にない。単なる筋肉痛が多い
+[2017-10-08T15:38:39.037000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: 我也没好QUQ
+[2017-10-08T15:38:48.494000+08:00] <UCSb_K0n5fpJtUxV5AE2Z_JA>  keenan1989: 刷新后黑屏了...
+[2017-10-08T15:38:50.778000+08:00] <UCLP_GFo6dNH6GyFk_wOwRCg>  _ chia: ...
+[2017-10-08T15:38:51.956000+08:00] <UCBun9g5LAJwJFEkqgUHYsxw>  陈仁惠: B站见
+[2017-10-08T15:39:08.007000+08:00] <UCSOhpL_oNc5BrRiNazMiGtw>  blankey jet city xjapan: だよね。
+[2017-10-08T15:39:10.645000+08:00] <UCCkQ0z6L04ogNcwbOW5ng3A>  戰場上的子彈: 我的好卡
+[2017-10-08T15:39:15.545000+08:00] <UCcUB75QZlelvGMTglBaWyAw>  Maily Fox: B站见吧QUQ
+[2017-10-08T15:39:20.045000+08:00] <UCcjFynAZIZuKtrJFoN1HgOw>  Ỷ Kỳ Tô: emmm....
+[2017-10-08T15:39:27.492000+08:00] <UCSb_K0n5fpJtUxV5AE2Z_JA>  keenan1989: 今天油管不好
+[2017-10-08T15:39:28.091000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 不卡就是音画不同步
+[2017-10-08T15:39:29.563000+08:00] <UCcjFynAZIZuKtrJFoN1HgOw>  Ỷ Kỳ Tô: 卡了
+[2017-10-08T15:39:48.386000+08:00] <UCSb_K0n5fpJtUxV5AE2Z_JA>  keenan1989: 我转移B站看卡不卡
+[2017-10-08T15:39:48.876000+08:00] <UCSOhpL_oNc5BrRiNazMiGtw>  blankey jet city xjapan: 音ずれすごいけど
+[2017-10-08T15:39:50.044000+08:00] <UCbn6WPgx5VyVpGIfUnoUs2Q>  Lisa1218: 退出刷新
+[2017-10-08T15:39:51.998000+08:00] <UCfeBlTKVBnQdB4I1860e5Zw>  Lin Jung: 雖然音畫不同步看到嘉愛還是要表白
+[2017-10-08T15:40:16.916000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 是直播的问题
+[2017-10-08T15:40:26.371000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 退出也没用
+[2017-10-08T15:40:33.827000+08:00] <UCF8pfUB2BM4G5PWIEPdpc-g>  爱你鞠婧祎: 朵朵
+[2017-10-08T15:40:33.956000+08:00] <UC_E9hbh9rSAjI9vTNH9xQ0Q>  Silicon FW: 中継途切れたから？
+[2017-10-08T15:41:10.281000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 看着好难受
+[2017-10-08T15:41:23.725000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 好像不行了
+[2017-10-08T15:42:03.239000+08:00] <UCSOhpL_oNc5BrRiNazMiGtw>  blankey jet city xjapan: うわぁつらいなぁこれは
+[2017-10-08T15:42:35.605000+08:00] <UC_E9hbh9rSAjI9vTNH9xQ0Q>  Silicon FW: 音が、遅れて、やってくるよwww
+[2017-10-08T15:42:41.423000+08:00] <UCbn6WPgx5VyVpGIfUnoUs2Q>  Lisa1218: 更了好几次都不行.....
+[2017-10-08T15:43:00.725000+08:00] <UCz-KYDdT-UgMlPa83uNnimA>  ＨＡＵＪＸ: 画音不同步得好严重啊
+[2017-10-08T15:43:06.679000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: 好聽
+[2017-10-08T15:43:21.414000+08:00] <UCbn6WPgx5VyVpGIfUnoUs2Q>  Lisa1218: 中间mc卡了一下没修复
+[2017-10-08T15:43:36.861000+08:00] <UCbn6WPgx5VyVpGIfUnoUs2Q>  Lisa1218: 直播stf去哪了 .....
+[2017-10-08T15:43:56.560000+08:00] <UCSb_K0n5fpJtUxV5AE2Z_JA>  keenan1989: 从B站回来了....B站卡到看一秒卡10秒
+[2017-10-08T15:44:22.655000+08:00] <UCbn6WPgx5VyVpGIfUnoUs2Q>  Lisa1218: B站正常？
+[2017-10-08T15:44:28.467000+08:00] <UCbn6WPgx5VyVpGIfUnoUs2Q>  Lisa1218: 我去斗鱼看看
+[2017-10-08T15:44:29.786000+08:00] <UCSb_K0n5fpJtUxV5AE2Z_JA>  keenan1989: 正常
+[2017-10-08T15:44:35.845000+08:00] <UCfFPHrb6ipovj7Kg5_j8sfA>  嘉愛的酒心巧克力: 斗魚也是卡
+[2017-10-08T15:44:41.769000+08:00] <UCcjFynAZIZuKtrJFoN1HgOw>  Ỷ Kỳ Tô: stf干啥呀
+[2017-10-08T15:45:01.090000+08:00] <UCViJ02I3JB8gGW7al9oxRmg>  Hana 谢蕾蕾女饭: stf要扣工资啦
+[2017-10-08T15:45:05.818000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: b站倒是挺好的 但是我好像已经习惯这里了
+[2017-10-08T15:45:31.540000+08:00] <UCcjFynAZIZuKtrJFoN1HgOw>  Ỷ Kỳ Tô: 扣钱!!!!!!！
+[2017-10-08T15:45:35.218000+08:00] <UCSb_K0n5fpJtUxV5AE2Z_JA>  keenan1989: B站更新后好卡，我都怕了
+[2017-10-08T15:45:38.631000+08:00] <UCbn6WPgx5VyVpGIfUnoUs2Q>  Lisa1218: 斗鱼可以，看的很顺
+[2017-10-08T15:45:48.525000+08:00] <UCp_YVIHygNsussuj1LhiXYw>  Alfred Mak: 音画不同步？
+[2017-10-08T15:45:54.262000+08:00] <UCSb_K0n5fpJtUxV5AE2Z_JA>  keenan1989: 乐视呢？
+[2017-10-08T15:46:28.509000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 主要感觉油管的弹幕比较好 真的有聊天的感觉啊
+[2017-10-08T15:46:46.907000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: YES
+[2017-10-08T15:46:52.528000+08:00] <UCSb_K0n5fpJtUxV5AE2Z_JA>  keenan1989: 确实B站毒瘤多...
+[2017-10-08T15:47:06.878000+08:00] <UCC1GxGFEk308blrhnPFhaAA>  加賀丈弘: ＰＣなら２が面開いて、音声片方ミュート、片方影像マイナス再生で問題ない
+[2017-10-08T15:47:11.137000+08:00] <UCrWwqO-ffq3-WXmd6UJqL4A>  Lia Lia: 直らないな
+[2017-10-08T15:47:15.863000+08:00] <UCcjFynAZIZuKtrJFoN1HgOw>  Ỷ Kỳ Tô: 好难受啊！！！
+[2017-10-08T15:47:38.116000+08:00] <UCrWwqO-ffq3-WXmd6UJqL4A>  Lia Lia: b站いこう
+[2017-10-08T15:47:40.853000+08:00] <UCbn6WPgx5VyVpGIfUnoUs2Q>  Lisa1218: 海外党苦...不能经常见到小偶像。只能好好珍惜每次公演直播了~
+[2017-10-08T15:47:48.052000+08:00] <UCcjFynAZIZuKtrJFoN1HgOw>  Ỷ Kỳ Tô: 看mc这样好气啊！！！
+[2017-10-08T15:49:18.003000+08:00] <UCSb_K0n5fpJtUxV5AE2Z_JA>  keenan1989: 各位，乐视正常
+[2017-10-08T15:49:20.623000+08:00] <UC_E9hbh9rSAjI9vTNH9xQ0Q>  Silicon FW: もう1回、中断すれば回復するかもね
+[2017-10-08T15:49:33.369000+08:00] <UCUXDmNptQDe-fFVpSosVdyQ>  Lily Lee: b站正常
+[2017-10-08T15:49:40.431000+08:00] <UC4YOZSrxBfFdvDZ19h7mm_A>  w: 官網正常
+[2017-10-08T15:50:35.092000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 看mc真的很难受
+[2017-10-08T15:51:24.495000+08:00] <UCcjFynAZIZuKtrJFoN1HgOw>  Ỷ Kỳ Tô: 我去bilbili
+[2017-10-08T15:52:43.576000+08:00] <UCViJ02I3JB8gGW7al9oxRmg>  Hana 谢蕾蕾女饭: 离广州最近 都去了几次剧场了
+[2017-10-08T15:53:43.946000+08:00] <UCrWwqO-ffq3-WXmd6UJqL4A>  Lia Lia: これでもまだ１２０人も見てるのか
+[2017-10-08T15:54:43.683000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 人数掉了好多
+[2017-10-08T15:54:59.336000+08:00] <UCG7HmhI-DYKia0RsdhSCzUA>  Pann Soo: có ai thấy bị lệch tiếng không vậy ...
+[2017-10-08T15:55:06.373000+08:00] <UCpOG5PXUM3qI1KKHiZ9p0Rw>  淡淡: 恩
+[2017-10-08T15:55:13.921000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 虽然我在看b站 但是我还留着油管。。
+[2017-10-08T15:55:27.179000+08:00] <UCpOG5PXUM3qI1KKHiZ9p0Rw>  淡淡: 因為太早直播了
+[2017-10-08T15:57:17.662000+08:00] <UCC1GxGFEk308blrhnPFhaAA>  加賀丈弘: 音声遅れようが早まろうが意味わからないこと以上の問題ではない
+[2017-10-08T15:57:37.814000+08:00] <UCSN02wsDJ7tt3hU4A3VWOzw>  夜影疾風: 是不是有延遲啊?
+[2017-10-08T15:58:00.743000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 音画不同步
+[2017-10-08T15:58:16.462000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: ​音画不同步
+[2017-10-08T15:58:17.455000+08:00] <UC3vGGsHNOSL5PXsMHpkmCRg>  红股童: 西瓜
+[2017-10-08T15:58:23.798000+08:00] <UCSN02wsDJ7tt3hU4A3VWOzw>  夜影疾風: 是因為YOUTUBE嗎?
+[2017-10-08T15:58:38.571000+08:00] <UCSN02wsDJ7tt3hU4A3VWOzw>  夜影疾風: 還是連官方的也是?
+[2017-10-08T15:59:05.852000+08:00] <UCrdp2eam3xLO6GmIQ00-noA>  Lala La: 袋王出来背锅
+[2017-10-08T15:59:39.413000+08:00] <UCSN02wsDJ7tt3hU4A3VWOzw>  夜影疾風: 我看一下官方的
+[2017-10-08T16:00:16.401000+08:00] <UCrWwqO-ffq3-WXmd6UJqL4A>  Lia Lia: ワンリナかわいい
+[2017-10-08T16:00:22.032000+08:00] <UCSN02wsDJ7tt3hU4A3VWOzw>  夜影疾風: 梅耶
+[2017-10-08T16:00:26.261000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: 因為剛剛GG了~~所以會音画不同步的
+[2017-10-08T16:00:33.788000+08:00] <UCSN02wsDJ7tt3hU4A3VWOzw>  夜影疾風: 只有YOUTUBE延遲
+[2017-10-08T16:00:36.744000+08:00] <UCSN02wsDJ7tt3hU4A3VWOzw>  夜影疾風: GG?
+[2017-10-08T16:00:58.891000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 口袋超级卡
+[2017-10-08T16:01:35.329000+08:00] <UCY-h4pnLNurZHw4NGEZ8JjA>  Kim Dedes: sound ?
+[2017-10-08T16:02:11.092000+08:00] <UCSN02wsDJ7tt3hU4A3VWOzw>  夜影疾風: 朵姊有上嗎?
+[2017-10-08T16:02:37.482000+08:00] <UCSN02wsDJ7tt3hU4A3VWOzw>  夜影疾風: 看到了
+[2017-10-08T16:03:02.693000+08:00] <UC3vGGsHNOSL5PXsMHpkmCRg>  红股童: 万丽娜
+[2017-10-08T16:03:32.801000+08:00] <UCuqq4A21WBFfEYbjBVCXI3w>  320 ML: 不对啊，刚刚大哥好像悄悄逃mc了
+[2017-10-08T16:03:33.587000+08:00] <UCUXDmNptQDe-fFVpSosVdyQ>  Lily Lee: 声音慢了10秒
+[2017-10-08T16:03:36.564000+08:00] <UCpOG5PXUM3qI1KKHiZ9p0Rw>  淡淡: 也太卡了吧！
+[2017-10-08T16:03:45.455000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: 又GG了
+[2017-10-08T16:03:48.580000+08:00] <UCSN02wsDJ7tt3hU4A3VWOzw>  夜影疾風: 怎突然又卡了?
+[2017-10-08T16:03:53.687000+08:00] <UCCkQ0z6L04ogNcwbOW5ng3A>  戰場上的子彈: 怎麼又GG
+[2017-10-08T16:03:54.963000+08:00] <UCSN02wsDJ7tt3hU4A3VWOzw>  夜影疾風: 掛了
+[2017-10-08T16:04:00.778000+08:00] <UCUXDmNptQDe-fFVpSosVdyQ>  Lily Lee: 是的又gg了
+[2017-10-08T16:04:08.397000+08:00] <UCCkQ0z6L04ogNcwbOW5ng3A>  戰場上的子彈: 不同步 卡卡的
+[2017-10-08T16:04:11.574000+08:00] <UCSN02wsDJ7tt3hU4A3VWOzw>  夜影疾風: 沒聲音了
+[2017-10-08T16:04:45.222000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: sound offbeat
+[2017-10-08T16:04:53.107000+08:00] <UCCkQ0z6L04ogNcwbOW5ng3A>  戰場上的子彈: 秀逗掉了
+[2017-10-08T16:05:37.557000+08:00] <UC_E9hbh9rSAjI9vTNH9xQ0Q>  Silicon FW: 回復？ してないね
+[2017-10-08T16:05:59.800000+08:00] <UCCkQ0z6L04ogNcwbOW5ng3A>  戰場上的子彈: 不同步
+[2017-10-08T16:07:03.976000+08:00] <UCfvpFtGlL01IQMxjGVQXUxg>  Penyair Netral: suaranya ga nyambung
+[2017-10-08T16:07:25.637000+08:00] <UCfvpFtGlL01IQMxjGVQXUxg>  Penyair Netral: sound late
+[2017-10-08T16:08:35.670000+08:00] <UCSOhpL_oNc5BrRiNazMiGtw>  blankey jet city xjapan: 楽しみにしてたんだけどなぁ明後日からまた社畜や
+[2017-10-08T16:09:04.004000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: you can watch bilibili or douyu live
+[2017-10-08T16:09:05.597000+08:00] <UCC1GxGFEk308blrhnPFhaAA>  加賀丈弘: この衣装、一人一人違うからすごい。あと乃木坂系の衣装とＡＫＢ系の衣装を足して割ったかんじ
+[2017-10-08T16:09:39.462000+08:00] <UC_E9hbh9rSAjI9vTNH9xQ0Q>  Silicon FW: わたしゃ、休み関係なくここ数日は夜勤
+[2017-10-08T16:09:51.210000+08:00] <UCHIJySypORt6SD4n9P7F1_g>  あいうえおかきくけこ: 自分は明日から社畜
+[2017-10-08T16:10:38.674000+08:00] <UCC1GxGFEk308blrhnPFhaAA>  加賀丈弘: モノトーン色もいいね
+[2017-10-08T16:10:50.032000+08:00] <UCrWwqO-ffq3-WXmd6UJqL4A>  Lia Lia: 今日はどこも夜公演ないね
+[2017-10-08T16:11:17.176000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: sound abit off
+[2017-10-08T16:15:02.049000+08:00] <UC_E9hbh9rSAjI9vTNH9xQ0Q>  Silicon FW: 来週は11日から、S,X,X2の順だね
+[2017-10-08T16:15:19.662000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: yes
+[2017-10-08T16:16:05.100000+08:00] <UCCkQ0z6L04ogNcwbOW5ng3A>  戰場上的子彈: 😎😎
+[2017-10-08T16:16:19.165000+08:00] <UC-_-3gn6rjwNhgohK3OHXGQ>  jiroji jiroji: 水水がN2に来ると背が高く見える
+[2017-10-08T16:16:40.709000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 发卡霸气
+[2017-10-08T16:17:07.022000+08:00] <UCC1GxGFEk308blrhnPFhaAA>  加賀丈弘: 俺には借りてきた猫に見える
+[2017-10-08T16:17:14.535000+08:00] <UCHeYNgEQOvGa51okkGbvf3w>  つ星ペンギン: 聲音完全沒同步到( 汗顏
+[2017-10-08T16:17:34.521000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 好想哭
+[2017-10-08T16:17:41.676000+08:00] <UC8fOiceQmoFY3d8LquTv1zg> *SNH48 Hong Kong: GG
+[2017-10-08T16:18:31.072000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: what happen to transmission
+[2017-10-08T16:18:32.028000+08:00] <UCLEftFi9eI_8FQXTM1xQAPQ>  Exo Kris: 为什么会这样？？😢
+[2017-10-08T16:18:40.667000+08:00] <UCCkQ0z6L04ogNcwbOW5ng3A>  戰場上的子彈: 不知
+[2017-10-08T16:18:46.724000+08:00] <UCHeYNgEQOvGa51okkGbvf3w>  つ星ペンギン: 茫然🤣🤣
+[2017-10-08T16:19:07.231000+08:00] <UCCkQ0z6L04ogNcwbOW5ng3A>  戰場上的子彈: 😥😥😥😥
+[2017-10-08T16:19:37.594000+08:00] <UCrWwqO-ffq3-WXmd6UJqL4A>  Lia Lia: このメンツだと水水は大人しくなって当然だな
+[2017-10-08T16:19:42.411000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 我还是先去吃早饭吧
+[2017-10-08T16:19:54.548000+08:00] <UCC1GxGFEk308blrhnPFhaAA>  加賀丈弘: 丁度いい
+[2017-10-08T16:20:36.927000+08:00] <UCrWwqO-ffq3-WXmd6UJqL4A>  Lia Lia: 天草がＮ公演に出てた時なんかMC、完全に地蔵だったし
+[2017-10-08T16:21:37.554000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: oh my gawd
+[2017-10-08T16:22:52.132000+08:00] <UCCkQ0z6L04ogNcwbOW5ng3A>  戰場上的子彈: 錯過了
+[2017-10-08T16:23:10.862000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: nice song but sound ....
+[2017-10-08T16:23:17.607000+08:00] <UCCkQ0z6L04ogNcwbOW5ng3A>  戰場上的子彈: 聲音完全沒到位
+[2017-10-08T16:23:48.397000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: 😢
+[2017-10-08T16:24:10.215000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: HK你直播在？
+[2017-10-08T16:25:51.757000+08:00] <UCC1GxGFEk308blrhnPFhaAA>  加賀丈弘: 戻ったぽい
+[2017-10-08T16:26:14.419000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: hmm
+[2017-10-08T16:26:43.494000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: mo sugu encore jikan
+[2017-10-08T16:27:19.564000+08:00] <UCC1GxGFEk308blrhnPFhaAA>  加賀丈弘: sou desu ne
+[2017-10-08T16:27:25.970000+08:00] <UCrWwqO-ffq3-WXmd6UJqL4A>  Lia Lia: encore iku zo
+[2017-10-08T16:29:09.002000+08:00] <UCS64i3csn5Gz2_AFW1gvEgA>  腿小狗: 安口路
+[2017-10-08T16:30:03.036000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: ka ka ka
+[2017-10-08T16:30:23.008000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 今天直播不行啊
+[2017-10-08T16:30:37.770000+08:00] <UC_E9hbh9rSAjI9vTNH9xQ0Q>  Silicon FW: ほかの直播やってみた。何故か弾幕だけ出て音と映像出なかった😅
+[2017-10-08T16:30:50.638000+08:00] <UCS64i3csn5Gz2_AFW1gvEgA>  腿小狗: 为什么音画不同步········
+[2017-10-08T16:31:33.685000+08:00] <UCCkQ0z6L04ogNcwbOW5ng3A>  戰場上的子彈: GG了
+[2017-10-08T16:31:38.802000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: i go first
+[2017-10-08T16:31:54.824000+08:00] <UC_E9hbh9rSAjI9vTNH9xQ0Q>  Silicon FW: このタブレットは古いからなぁ
+[2017-10-08T16:34:57.973000+08:00] <UCSOhpL_oNc5BrRiNazMiGtw>  blankey jet city xjapan: 戻ったかね？
+[2017-10-08T16:35:00.855000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: hmmm
+[2017-10-08T16:35:08.950000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: modotta
+[2017-10-08T16:35:16.382000+08:00] <UCCkQ0z6L04ogNcwbOW5ng3A>  戰場上的子彈: 她們的衣服很漂亮
+[2017-10-08T16:35:24.920000+08:00] <UC_E9hbh9rSAjI9vTNH9xQ0Q>  Silicon FW: 戻ったねぇ
+[2017-10-08T16:35:47.179000+08:00] <UCCkQ0z6L04ogNcwbOW5ng3A>  戰場上的子彈: 到位了
+[2017-10-08T16:36:05.234000+08:00] <UCCkQ0z6L04ogNcwbOW5ng3A>  戰場上的子彈: 但好卡
+[2017-10-08T16:37:00.489000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 卡啊
+[2017-10-08T16:37:02.052000+08:00] <UCSOhpL_oNc5BrRiNazMiGtw>  blankey jet city xjapan: でもなんかちょくちょく止まるなぁ
+[2017-10-08T16:37:12.377000+08:00] <UCC1GxGFEk308blrhnPFhaAA>  加賀丈弘: お帰り、時差すごかった
+[2017-10-08T16:37:28.119000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: yesterday also at this timing cut off
+[2017-10-08T16:37:33.147000+08:00] <UC-_-3gn6rjwNhgohK3OHXGQ>  jiroji jiroji: この公演のセンターってワンリナじゃないんだよね
+[2017-10-08T16:37:38.540000+08:00] <UC_E9hbh9rSAjI9vTNH9xQ0Q>  Silicon FW: あらら
+[2017-10-08T16:37:38.649000+08:00] <UCCkQ0z6L04ogNcwbOW5ng3A>  戰場上的子彈: 呃........
+[2017-10-08T16:37:52.932000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 。GG
+[2017-10-08T16:38:01.478000+08:00] <UCCkQ0z6L04ogNcwbOW5ng3A>  戰場上的子彈: 這首叫什麼啊
+[2017-10-08T16:38:04.305000+08:00] <UCCkQ0z6L04ogNcwbOW5ng3A>  戰場上的子彈: GG
+[2017-10-08T16:38:28.720000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: ahhhhhhhhhhhhhhhhh
+[2017-10-08T16:39:31.431000+08:00] <UCCkQ0z6L04ogNcwbOW5ng3A>  戰場上的子彈: 我最愛的
+[2017-10-08T16:39:33.311000+08:00] <UC_E9hbh9rSAjI9vTNH9xQ0Q>  Silicon FW: これが直でなくて、後日見たら正常になるのだろうか
+[2017-10-08T16:40:33.281000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 好了
+[2017-10-08T16:40:37.378000+08:00] <UCSOhpL_oNc5BrRiNazMiGtw>  blankey jet city xjapan: つらたん
+[2017-10-08T16:41:19.849000+08:00] <UCC1GxGFEk308blrhnPFhaAA>  加賀丈弘: 愛があればおｋ
+[2017-10-08T16:43:10.776000+08:00] <UCCkQ0z6L04ogNcwbOW5ng3A>  戰場上的子彈: 好卡喔
+[2017-10-08T16:43:13.637000+08:00] <UCC1GxGFEk308blrhnPFhaAA>  加賀丈弘: ちゃーちゃーまじか
+[2017-10-08T16:43:31.850000+08:00] <UCCkQ0z6L04ogNcwbOW5ng3A>  戰場上的子彈: 先這樣
+[2017-10-08T16:43:48.243000+08:00] <UC_E9hbh9rSAjI9vTNH9xQ0Q>  Silicon FW: あらら、飛んだ
+[2017-10-08T16:44:02.201000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: chacha naniga atta
+[2017-10-08T16:44:10.563000+08:00] <UCwLGQL1vTmRWqd3k08_Uc0g>  Song Ngư: 哭了？
+[2017-10-08T16:45:15.251000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 说了什么完全听不懂
+[2017-10-08T16:45:25.936000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: something happen?
+[2017-10-08T16:45:30.164000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 竟然是叉叉哭了啊
+[2017-10-08T16:45:34.981000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 为什么哭了？谁知道？
+[2017-10-08T16:45:59.588000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 听婷婷的话是大家的评价跟期待值差太多了
+[2017-10-08T16:46:26.886000+08:00] <UC4YOZSrxBfFdvDZ19h7mm_A>  w: 然而這套公演確實很爛
+[2017-10-08T16:46:45.124000+08:00] <UC4YOZSrxBfFdvDZ19h7mm_A>  w: 最好的隊用著最差的公演
+[2017-10-08T16:47:08.875000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 没办法，太忙了n队
+[2017-10-08T16:47:12.021000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: you taiwan?
+[2017-10-08T16:47:34.314000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: haha
+[2017-10-08T16:47:38.937000+08:00] <UC4YOZSrxBfFdvDZ19h7mm_A>  w: 主要是詞曲水平太差
+[2017-10-08T16:47:59.847000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 再见了，我看不下去了
+[2017-10-08T16:48:01.310000+08:00] <UCa4b7BL-N-GPDkvVGkT5gxw>  臺支賤畜都是我兒: 😊
+[2017-10-08T16:48:06.991000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 太卡了
+[2017-10-08T16:48:38.113000+08:00] <UCgP1Ji9pweK3kErvZs2gSyg>  TL Yau: something happened
+[2017-10-08T16:49:06.268000+08:00] <UCSOhpL_oNc5BrRiNazMiGtw>  blankey jet city xjapan: 一番前泣いてるな理由はわからんけど
+[2017-10-08T16:49:48.159000+08:00] <UCC1GxGFEk308blrhnPFhaAA>  加賀丈弘: 一番まえのこ看護婦兼業、、そういうこと
+[2017-10-08T16:49:50.154000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 为什么哭啊
+[2017-10-08T16:49:55.604000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 没看懂
+[2017-10-08T16:50:14.624000+08:00] <UCC1GxGFEk308blrhnPFhaAA>  加賀丈弘: 看護師
+[2017-10-08T16:50:17.422000+08:00] <UCfvpFtGlL01IQMxjGVQXUxg>  Penyair Netral: huang ting ting graduation
+[2017-10-08T16:50:27.577000+08:00] <UC8CZz8Xwv_k9MqrWyqgpq2g> *好吃柠檬: 拜拜ﾉBye~
+[2017-10-08T16:50:38.707000+08:00] <UC_E9hbh9rSAjI9vTNH9xQ0Q>  Silicon FW: 看護師！ そんなの兼業ムリじゃん！
+[2017-10-08T16:50:59.671000+08:00] <UC_E9hbh9rSAjI9vTNH9xQ0Q>  Silicon FW: 辞めちゃうのかな
+[2017-10-08T16:51:02.066000+08:00] <UCC1GxGFEk308blrhnPFhaAA>  加賀丈弘: でもやってるんだなこれがｗ
+[2017-10-08T16:51:09.082000+08:00] <UCHIJySypORt6SD4n9P7F1_g>  あいうえおかきくけこ: パートで兼業では
+[2017-10-08T16:51:25.040000+08:00] <UCWAd8jYkmDyt7_5RMvb4Ihw>  发卡十八线老粉丝: 大家再见啦 小偶像们都很不容易呢
+[2017-10-08T16:51:52.600000+08:00] <UC_E9hbh9rSAjI9vTNH9xQ0Q>  Silicon FW: あぁ、午前中だけのとかあるね
+[2017-10-08T16:51:56.979000+08:00] <UCa4b7BL-N-GPDkvVGkT5gxw>  臺支賤畜都是我兒: 来啦
+[2017-10-08T16:52:09.846000+08:00] <UCHIJySypORt6SD4n9P7F1_g>  あいうえおかきくけこ: 大変だ
+[2017-10-08T16:52:51.375000+08:00] <UCC1GxGFEk308blrhnPFhaAA>  加賀丈弘: 病院あげて応援してるっぽい、凄い
+[2017-10-08T16:52:51.905000+08:00] <UC_E9hbh9rSAjI9vTNH9xQ0Q>  Silicon FW: じゃあ、また来週、バイバイ！
+[2017-10-08T16:53:24.291000+08:00] <UCC1GxGFEk308blrhnPFhaAA>  加賀丈弘: お疲れさま、夜勤加油
+[2017-10-08T16:54:16.734000+08:00] <UCfvpFtGlL01IQMxjGVQXUxg>  Penyair Netral: some members want grad from snh48?
