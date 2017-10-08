@@ -1,0 +1,23 @@
+{%- macro stream_card(stream) -%}
+<div class="stream">
+  <span class="stream-link"><a href="https://youtu.be/{{ stream.video_id }}" target="_blank">youtu.be/{{ stream.video_id }}</a></span>
+  <span class="stream-timing"><time datetime="{{ stream.start_time }}">{{ stream.start_time|formatdatetime }}</time> &ndash; <time datetime="{{ stream.end_time }}">{{ stream.end_time|formatdatetime }}</time></span>
+  <div class="events">
+    {% for event in stream.events -%}
+    <div class="event-thumbnail-container">
+      <img class="event-thumbnail" src="{{ event.thumbnail_url }}" alt="{{ event.title }}">
+      <time class="event-datetime" datetime="{{ event.datetime }}">{{ event.datetime|formatdatetime }}</time>
+    </div>
+    <span class="event-title{% if event.title.startswith('《') %} leftshift{% endif %}">{{ event.title }}</span>
+    <span class="event-subtitle{% if event.subtitle.startswith('《') %} leftshift{% endif %}">{{ event.subtitle }}</span>
+    {% endfor -%}
+  </div>
+  <div class="spacer"></div>
+  <img class="stream-plot" src={{ url_for('plot', filename=stream.plot) }} alt="Live viewership curve for {{ stream.video_id }}">
+  <div class="stream-annotation">Peak: <span class="peak-value">{{ stream.peak_viewers }}</span> viewers at <a href="https://youtu.be/{{ stream.video_id }}?t={{ stream.peak_offset }}" target="_blank">{{ stream.peak_offset|formatoffset }}</a><br><small><a href="{{ url_for('stream_stats', video_id=stream.video_id) }}" target="_blank">Permalink</a> · <a href="{{ url_for('transcript_html', video_id=stream.video_id) }}" target="_blank">Transcript</a></small></div>
+</div>
+{%- endmacro -%}
+
+{#- Local Variables: -#}
+{#- mode: jinja2 -#}
+{#- End: -#}

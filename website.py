@@ -16,17 +16,22 @@ from lib.config import INDEX, METADATA_DIR, PLOTS_DIR, TRANSCRIPTS_DIR
 app = flask.Flask(__name__)
 PER_PAGE = 6
 streams = None
+streams_index = None
 
 
 def load_streams():
     global streams
+    global streams_index
     streams = []
+    streams_index = {}
     with open(INDEX) as fp:
         for line in fp:
             date, video_id = line.split()
             metadata_file = METADATA_DIR / f'{date}-{video_id}.json'
             with open(metadata_file) as fmeta:
-                streams.append(attrdict.AttrDict(json.load(fmeta)))
+                stream = attrdict.AttrDict(json.load(fmeta))
+                streams.append(stream)
+                streams_index[video_id] = stream
     streams = list(reversed(streams))
 
 
@@ -100,6 +105,14 @@ def index(page=1):
     return flask.render_template('index.html',
                                  pagination=pagination,
                                  streams=streams[(page - 1) * PER_PAGE : page * PER_PAGE])
+
+
+@app.route('/stats/<video_id>.html')
+def stream_stats(video_id):
+    if video_id in streams_index:
+        return flask.render_template('stream.html', stream=streams_index[video_id])
+    else:
+        flask.abort(404)
 
 
 @app.route('/plot/<filename>')

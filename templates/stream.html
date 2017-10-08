@@ -1,37 +1,17 @@
 {% from '_macros.html' import stream_card %}
 
-{% macro render_pagination(pagination) -%}
-<div class="pagination">
-  <span>Page</span>
-  {% for page in pagination.iter_pages() -%}
-    {% if page -%}
-      {% if page != pagination.page -%}
-        <a href="{{ url_for('index', page=page) }}">{{ page }}</a>
-      {% else -%}
-        <strong>{{ page }}</strong>
-      {% endif -%}
-    {% else -%}
-      <span>…</span>
-    {% endif -%}
-  {% endfor -%}
-</div>
-{% endmacro -%}
-
 <!DOCTYPE html>
 <html>
 <head>
   <meta charset="UTF-8">
   <meta content="width=device-width,initial-scale=1" name="viewport">
-  <title>SNH48 official livestreams data</title>
+  <title>Livestream statistics - {{ stream.video_id }}</title>
   <style>
     body { display: flex; min-height: 100vh; flex-direction: column; margin: 0; font-family: "Times New Roman", Times, "Songti SC", SimSun, serif; }
     main { flex: 1; }
     h1 { text-align: center; font-size: 30px; margin: 40px 20px 20px 20px; }
     a { color: blue; text-decoration: none; }
-    .pagination { margin: 20px auto 0 auto; text-align: center; font-size: 16px; }
-    .stream-grid { width: 100%; max-width: 1920px; display: grid; justify-content: center; grid-template-columns: repeat(auto-fill, 620px); grid-gap: 10px; margin: 10px auto; }
-    .stream { display: flex; flex-direction: column; box-sizing: border-box; padding: 9px; width: 620px; border: 1px solid #ddd; }
-    .stream:hover { background: #eee; }
+    .stream { display: flex; flex-direction: column; box-sizing: border-box; padding: 9px; width: 620px; border: 1px solid #ddd; margin: 30px auto; }
     .stream-link, .stream-timing, .event-title, .event-subtitle, .event-datetime, .stream-annotation { display: block; margin: auto; text-align: center; }
     .stream-link { font-size: 18px; }
     .stream-timing { font-size: 14px; color: #444; }
@@ -45,24 +25,19 @@
     .peak-value { color: red; }
     .leftshift { margin-left: -0.5em; }
     .spacer { flex-grow: 1; }
+    .index-link { margin: 20px auto 0 auto; text-align: center; font-size: 16px; }
     footer { margin: 20px 0; text-align: center; font-size: 14px; }
     @media (max-width: 640px) {
-      .stream-grid { grid-template-columns: none; grid-auto-columns: max-content; }
       .stream { width: 96vw; }
       .stream-plot { width: calc(96vw - 20px); height: calc((96vw - 20px) * 0.712); }
     }
   </style>
 </head>
 <body>
-  <h1>SNH48 official livestreams data</h1>
   <main>
-    <div class="stream-grid">
-      {% for stream in streams -%}
-      {{ stream_card(stream)|indent(6)|safe }}
-      {% endfor -%}
-    </div>
+    {{ stream_card(stream)|indent(4)|safe }}
   </main>
-  {{ render_pagination(pagination)|indent(2)|safe }}
+  <div class="index-link">Back to <a href="{{ url_for('index') }}">stream index</a></div>
 {% include '_footer.html' %}
 
 {#- Local Variables: -#}
