@@ -4,6 +4,7 @@ import collections
 import json
 import os
 import pathlib
+import re
 import signal
 import subprocess
 import sys
@@ -44,9 +45,26 @@ def get_current_live_video_id(channel_id):
             quiet=True,
             youtube_include_dash_manifest=False,
         ))
-        ytdl.report_error = lambda *args, **kwargs: None  # Completely silence youtube-dl
+
+        # Completely silence youtube-dl
+        def no_op(*args, **kwargs):
+            pass
+
+        def silent_raise(*args, **kwargs):
+            raise RuntimeError
+
+        ytdl.report_warning = no_op
+        ytdl.report_error = silent_raise
+
         info = ytdl.extract_info(f'https://youtube.com/channel/{channel_id}/live', download=False)
-        return info.get('id')
+        video_id = info.get('id')
+        if not isinstance(video_id, str):
+            return None
+        else:
+            if not re.match(r'^[a-zA-Z0-9_-]{11}$', video_id):
+                logger.warning(f'youtube-dl returned invalid video id: {video_id}')
+                return None
+            return video_id
     except Exception:
         return None
 
