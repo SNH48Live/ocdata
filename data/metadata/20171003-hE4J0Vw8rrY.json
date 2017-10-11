@@ -1,1 +1,16 @@
-{"video_id": "hE4J0Vw8rrY", "start_time": "2017-10-03T13:36:16+08:00", "end_time": "2017-10-03T17:01:51+08:00", "events": [{"datetime": "2017-10-03T13:45:00+08:00", "title": "《第48区》剧场公演", "subtitle": "TEAM SII剧场公演", "thumbnail_url": "https://snh48live.org/schedule/images/20171003134500-59c1f08f0cf25f588029b745.jpg"}], "plot": "20171003-hE4J0Vw8rrY.svg", "peak_viewers": 174, "peak_offset": 7724}
+{
+  "video_id": "hE4J0Vw8rrY",
+  "start_time": "2017-10-03T13:36:16+08:00",
+  "end_time": "2017-10-03T17:01:51+08:00",
+  "events": [
+    {
+      "datetime": "2017-10-03T13:45:00+08:00",
+      "title": "《第48区》剧场公演",
+      "subtitle": "TEAM SII剧场公演",
+      "thumbnail_url": "https://snh48live.org/schedule/images/20171003134500-59c1f08f0cf25f588029b745.jpg"
+    }
+  ],
+  "plot": "20171003-hE4J0Vw8rrY.svg",
+  "peak_viewers": 174,
+  "peak_offset": 7724
+}
