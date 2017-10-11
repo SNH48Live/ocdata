@@ -160,7 +160,7 @@ def postprocess(video_id, logfile):
         ])
         metadata_file = METADATA_DIR / f'{date}-{video_id}.json'
         with open(metadata_file, 'w') as fp:
-            fp.write(json.dumps(data, ensure_ascii=False))
+            fp.write(json.dumps(data, indent=2, ensure_ascii=False))
         logger.info(f'Wrote metadata file: {metadata_file}')
 
         # Generate website
