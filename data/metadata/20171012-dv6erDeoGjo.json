@@ -1,0 +1,16 @@
+{
+  "video_id": "dv6erDeoGjo",
+  "start_time": "2017-10-12T19:05:18+08:00",
+  "end_time": "2017-10-12T22:10:43+08:00",
+  "events": [
+    {
+      "datetime": "2017-10-12T19:15:00+08:00",
+      "title": "《梦想的旗帜》剧场公演",
+      "subtitle": "TEAM X剧场公演",
+      "thumbnail_url": "https://snh48live.org/schedule/images/20171012191500-59dae22f0cf2085d7b3feafe.jpg"
+    }
+  ],
+  "plot": "20171012-dv6erDeoGjo.svg",
+  "peak_viewers": 126,
+  "peak_offset": 8262
+}

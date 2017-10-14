@@ -1,0 +1,16 @@
+{
+  "video_id": "rxoQmROyQ1c",
+  "start_time": "2017-10-13T17:19:24+08:00",
+  "end_time": "2017-10-13T18:29:17+08:00",
+  "events": [
+    {
+      "datetime": "2017-10-13T17:25:00+08:00",
+      "title": "星梦Mini Live",
+      "subtitle": "参与成员：刘增艳",
+      "thumbnail_url": "https://snh48live.org/schedule/images/20171013172500-59ddf2930cf294bc616de878.jpg"
+    }
+  ],
+  "plot": "20171013-rxoQmROyQ1c.svg",
+  "peak_viewers": 48,
+  "peak_offset": 2136
+}
