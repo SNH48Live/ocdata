@@ -230,23 +230,12 @@ def main():
                 chat_recorder = subprocess.Popen([HERE / 'record-chat', video_id],
                                                  stdin=subprocess.DEVNULL)
 
-                ending_ticks = 0
-
             time.sleep(60 - time.time() % 60)
             now = int(time.time())
             try:
                 viewership = get_live_viewership(video_id)
-                ending_ticks = 0
             except LivestreamEndedError as exc:
                 logger.info(exc)
-
-                ending_ticks += 1
-                # Less than three minutes since we first detect a
-                # LivestreamEndedError, which might be a temporary
-                # interruption.
-                if ending_ticks <= 3:
-                    continue
-
                 chat_recorder.send_signal(signal.SIGINT)
                 chat_recorder.wait(5)
                 chat_recorder.kill()
