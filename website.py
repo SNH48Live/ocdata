@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import html
 import json
 import math
 import mimetypes
@@ -9,8 +10,8 @@ import arrow
 import attrdict
 import flask
 
-import lib.emojis
 from lib.config import INDEX, METADATA_DIR, PLOTS_DIR, TRANSCRIPTS_DIR
+from lib.emojis import EMOJI_MAXLEN, EMOJI_TRIE
 
 
 app = flask.Flask(__name__)
@@ -91,6 +92,28 @@ def formatoffset(offset):
     return f'{hours:01d}:{minutes:02d}:{seconds:02d}'
 
 
+def emojipath(emoji):
+    html_entity = ''.join(f'&#x{ord(char):x}' for char in emoji)
+    filename = 'emoji_u' + '_'.join(f'{ord(char):x}' for char in emoji) + '.svg'
+    return flask.url_for('static', filename=f'emojis/{filename}')
+
+
+# The returned string is HTML-safe.
+@app.template_filter('markupemojis')
+def markupemojis(text):
+    result = ''
+    while text:
+        # Find out whether an emoji starts at the current position.
+        emoji = EMOJI_TRIE.longest_prefix(text[:EMOJI_MAXLEN])[0]
+        if not emoji:
+            result += html.escape(text[0])
+            text = text[1:]
+        else:
+            result += f'<img class="emoji" height="24" width="24" alt="{emoji}" src="{emojipath(emoji)}">'
+            text = text[len(emoji):]
+    return result
+
+
 # We use an optional argument page here instead of the standard
 #
 #     @app.route('/', defaults=dict(page=1))
@@ -141,14 +164,7 @@ def transcript_html(video_id):
     with open(get_transcript(video_id, '.json')) as fp:
         for line in fp:
             messages.append(attrdict.AttrDict(json.loads(line)))
-    html_string = flask.render_template('transcript.html', video_id=video_id, messages=messages)
-    for emoji in lib.emojis.EMOJIS:
-        html_entity = ''.join(f'&#x{ord(char):x}' for char in emoji)
-        emoji_filename = 'emoji_u' + '_'.join(f'{ord(char):x}' for char in emoji) + '.svg'
-        emoji_path = flask.url_for('static', filename=f'emojis/{emoji_filename}')
-        replstr = f'<img class="emoji" height="24" width="24" alt="{emoji_filename}" src="{emoji_path}">'
-        html_string = html_string.replace(emoji, replstr)
-    return html_string
+    return flask.render_template('transcript.html', video_id=video_id, messages=messages)
 
 
 @app.errorhandler(404)

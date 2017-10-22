@@ -1,3 +1,6 @@
+import pygtrie
+
+
 # Emojis available in YouTube live chat.
 EMOJIS = [
     '\U0000203C',
@@ -1048,3 +1051,6 @@ EMOJIS = [
     '\U0001F991',
     '\U0001F9C0',
 ]
+
+EMOJI_MAXLEN = max(len(emoji) for emoji in EMOJIS)
+EMOJI_TRIE = pygtrie.CharTrie({emoji: True for emoji in EMOJIS})

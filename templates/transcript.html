@@ -38,7 +38,7 @@
       <span class="author{% if message.author_is_owner %} owner{% endif %}{% if message.author_is_moderator %} moderator{% endif %}{% if message.author_channel_id == 'UC10BBCJQasWk_08Fdz0XCsQ' %} me{% endif %}">
         <a href="https://youtube.com/channel/{{ message.author_channel_id }}" target="_blank">{{ message.author|e }}</a>
       </span>
-      <span class="content">{{ message.text|e }}</span>
+      <span class="content">{{ message.text|markupemojis|safe }}</span>
     </li>
     {% endif -%}
     {% endfor -%}
