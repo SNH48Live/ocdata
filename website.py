@@ -15,7 +15,7 @@ from lib.emojis import EMOJI_MAXLEN, EMOJI_TRIE
 
 
 app = flask.Flask(__name__)
-PER_PAGE = 6
+PER_PAGE = 12
 streams = None
 streams_index = None
 
