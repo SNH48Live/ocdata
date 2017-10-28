@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import heapq
 import html
 import json
 import math
@@ -128,6 +129,14 @@ def index(page=1):
     return flask.render_template('index.html',
                                  pagination=pagination,
                                  streams=streams[(page - 1) * PER_PAGE : page * PER_PAGE])
+
+
+@app.route('/top/')
+def top():
+    return flask.render_template(
+        'index.html',
+        streams=heapq.nlargest(PER_PAGE, streams, key=lambda stream: stream.peak_viewers),
+    )
 
 
 @app.route('/stats/<video_id>.html')

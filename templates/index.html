@@ -62,7 +62,7 @@
       {% endfor -%}
     </div>
   </main>
-  {{ render_pagination(pagination)|indent(2)|safe }}
+  {% if pagination %}{{ render_pagination(pagination)|indent(2)|safe }}{% endif %}
 {% include '_footer.html' %}
 
 {#- Local Variables: -#}
