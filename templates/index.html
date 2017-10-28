@@ -17,6 +17,15 @@
 </div>
 {% endmacro -%}
 
+{% macro render_crosslinks(links) -%}
+<div class="links">
+  {% for title, dest in links -%}
+    <a href="{{ dest }}">{{ title }}</a>
+    {%- if not loop.last %} · {% endif %}
+  {% endfor -%}
+</div>
+{% endmacro %}
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -27,8 +36,11 @@
     body { display: flex; min-height: 100vh; flex-direction: column; margin: 0; font-family: "Times New Roman", Times, "Songti SC", SimSun, serif; }
     main { flex: 1; }
     h1 { text-align: center; font-size: 30px; margin: 40px 20px 20px 20px; }
+    h2 { text-align: center; font-size: 20px; margin: 0 20px 20px 20px; }
     a { color: blue; text-decoration: none; }
-    .pagination { margin: 20px auto 0 auto; text-align: center; font-size: 16px; }
+    .pagination, .links { text-align: center; font-size: 16px; }
+    .pagination { margin: 20px auto 0 auto; }
+    .links { margin: 10px auto 0 auto; }
     .stream-grid { width: 100%; max-width: 1920px; display: grid; justify-content: center; grid-template-columns: repeat(auto-fill, 620px); grid-gap: 10px; margin: 10px auto; }
     .stream { display: flex; flex-direction: column; box-sizing: border-box; padding: 9px; width: 620px; border: 1px solid #ddd; }
     .stream:hover { background: #eee; }
@@ -55,6 +67,7 @@
 </head>
 <body>
   <h1>SNH48 official livestreams data</h1>
+  {% if subtitle %}<h2>{{ subtitle }}</h2>{% endif %}
   <main>
     <div class="stream-grid">
       {% for stream in streams -%}
@@ -63,6 +76,7 @@
     </div>
   </main>
   {% if pagination %}{{ render_pagination(pagination)|indent(2)|safe }}{% endif %}
+  {% if links %}{{ render_crosslinks(links)|indent(2)|safe }}{% endif %}
 {% include '_footer.html' %}
 
 {#- Local Variables: -#}

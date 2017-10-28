@@ -126,16 +126,21 @@ def markupemojis(text):
 @app.route('/<int:page>/')
 def index(page=1):
     pagination = Pagination(page, PER_PAGE, len(streams))
-    return flask.render_template('index.html',
-                                 pagination=pagination,
-                                 streams=streams[(page - 1) * PER_PAGE : page * PER_PAGE])
+    return flask.render_template(
+        'index.html',
+        pagination=pagination,
+        streams=streams[(page - 1) * PER_PAGE : page * PER_PAGE],
+        links=[('Top livestreams', flask.url_for('top'))],
+    )
 
 
 @app.route('/top/')
 def top():
     return flask.render_template(
         'index.html',
+        subtitle='Top livestreams (by peak viewership)',
         streams=heapq.nlargest(PER_PAGE, streams, key=lambda stream: stream.peak_viewers),
+        links=[('Reverse chronological index', flask.url_for('index'))],
     )
 
 
