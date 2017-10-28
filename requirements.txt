@@ -4,5 +4,6 @@ arrow
 attrdict
 google-api-python-client
 matplotlib
+pygtrie
 requests
 youtube-dl
