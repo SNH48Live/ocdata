@@ -156,8 +156,8 @@ def postprocess(video_id, logfile):
         related_events = []
         for event in events:
             event_start_time = arrow.get(event['datetime'])
-            # Allow the livestream to be 15 minutes late
-            if start_time.timestamp - 900 <= event_start_time.timestamp <= end_time.timestamp:
+            # Allow the livestream to be 30 minutes late
+            if start_time.timestamp - 1800 <= event_start_time.timestamp <= end_time.timestamp:
                 related_events.append(collections.OrderedDict([
                     ('datetime', event['datetime']),
                     ('title', event['title']),
