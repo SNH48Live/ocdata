@@ -141,12 +141,20 @@ def plot(video_id, logfile):
 
 def postprocess(video_id, logfile):
     try:
-        peak_count, peak_offset_seconds = plot(video_id, logfile)
         response = youtube.videos().list(part='liveStreamingDetails', id=video_id).execute()
         live_details = response['items'][0]['liveStreamingDetails']
         start_time = arrow.get(live_details['actualStartTime']).to('Asia/Shanghai')
         end_time = arrow.get(live_details['actualEndTime']).to('Asia/Shanghai')
         date = start_time.strftime('%Y%m%d')
+
+        # Livestream shorter than 15 minutes
+        duration = end_time.timestamp - start_time.timestamp
+        if duration < 900:
+            logger.warning(f'{video_id} lasted for only {duration} seconds, '
+                           f'shorter than the postprocessing threshold of 15 minutes')
+            return
+
+        peak_count, peak_offset_seconds = plot(video_id, logfile)
 
         with open(INDEX, 'a') as fp:
             print(date, video_id, file=fp)
