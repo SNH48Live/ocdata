@@ -227,7 +227,7 @@ def main():
                 with open(logfile, 'a') as fp:
                     pass
 
-                chat_recorder = subprocess.Popen([HERE / 'record-chat', video_id],
+                chat_recorder = subprocess.Popen([HERE / 'record-chat', '--', video_id],
                                                  stdin=subprocess.DEVNULL)
 
             time.sleep(60 - time.time() % 60)
