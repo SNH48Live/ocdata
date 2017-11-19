@@ -1,0 +1,16 @@
+{
+  "video_id": "O6-Bwftu22o",
+  "start_time": "2017-11-04T13:30:04+08:00",
+  "end_time": "2017-11-04T17:20:01+08:00",
+  "events": [
+    {
+      "datetime": "2017-11-04T13:45:00+08:00",
+      "title": "《梦想的旗帜》剧场公演",
+      "subtitle": "冯晓菲生日主题公演",
+      "thumbnail_url": "https://snh48live.org/schedule/images/20171104134500-59ef0c280cf22d4b3516e64a.jpg"
+    }
+  ],
+  "plot": "20171104-O6-Bwftu22o.svg",
+  "peak_viewers": 105,
+  "peak_offset": 7496
+}

@@ -1,0 +1,16 @@
+{
+  "video_id": "BWZH1UU0gxM",
+  "start_time": "2017-11-10T18:46:25+08:00",
+  "end_time": "2017-11-10T21:59:38+08:00",
+  "events": [
+    {
+      "datetime": "2017-11-10T18:45:00+08:00",
+      "title": "《美丽世界》剧场公演",
+      "subtitle": "TEAM HII剧场公演",
+      "thumbnail_url": "https://snh48live.org/schedule/images/20171110184500-59f96f280cf2c5015933077d.jpg"
+    }
+  ],
+  "plot": "20171110-BWZH1UU0gxM.svg",
+  "peak_viewers": 112,
+  "peak_offset": 8615
+}

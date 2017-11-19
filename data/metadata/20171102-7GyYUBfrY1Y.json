@@ -1,0 +1,16 @@
+{
+  "video_id": "7GyYUBfrY1Y",
+  "start_time": "2017-11-02T19:16:19+08:00",
+  "end_time": "2017-11-02T22:50:29+08:00",
+  "events": [
+    {
+      "datetime": "2017-11-02T19:15:00+08:00",
+      "title": "《以爱之名》剧场公演",
+      "subtitle": "TEAM NII剧场公演",
+      "thumbnail_url": "https://snh48live.org/schedule/images/20171102191500-59ef0be90cf22d4b3516e648.jpg"
+    }
+  ],
+  "plot": "20171102-7GyYUBfrY1Y.svg",
+  "peak_viewers": 288,
+  "peak_offset": 9821
+}
