@@ -1,0 +1,16 @@
+{
+  "video_id": "gsCmnE0SpLI",
+  "start_time": "2017-11-22T19:33:24+08:00",
+  "end_time": "2017-11-22T22:20:53+08:00",
+  "events": [
+    {
+      "datetime": "2017-11-22T19:15:00+08:00",
+      "title": "《梦想的旗帜》剧场公演",
+      "subtitle": "TEAM X剧场公演",
+      "thumbnail_url": "https://snh48live.org/schedule/images/20171122191500-5a0d64340cf21997ec7b01b0.jpg"
+    }
+  ],
+  "plot": "20171122-gsCmnE0SpLI.svg",
+  "peak_viewers": 131,
+  "peak_offset": 6156
+}
