@@ -1,0 +1,16 @@
+{
+  "video_id": "iRh8CE2DOeU",
+  "start_time": "2017-12-09T13:20:59+08:00",
+  "end_time": "2017-12-09T16:57:39+08:00",
+  "events": [
+    {
+      "datetime": "2017-12-09T13:45:00+08:00",
+      "title": "《梦想的旗帜》剧场公演",
+      "subtitle": "《梦想的旗帜》千秋乐公演",
+      "thumbnail_url": "https://snh48live.org/schedule/images/20171209134500-5a1e59e50cf2cc00e40518fd.jpg"
+    }
+  ],
+  "plot": "20171209-iRh8CE2DOeU.svg",
+  "peak_viewers": 125,
+  "peak_offset": 10501
+}

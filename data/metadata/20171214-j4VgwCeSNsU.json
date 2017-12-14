@@ -1,0 +1,16 @@
+{
+  "video_id": "j4VgwCeSNsU",
+  "start_time": "2017-12-14T19:18:44+08:00",
+  "end_time": "2017-12-14T22:31:48+08:00",
+  "events": [
+    {
+      "datetime": "2017-12-14T19:15:00+08:00",
+      "title": "《第48区》剧场公演",
+      "subtitle": "TEAM SII剧场公演",
+      "thumbnail_url": "https://snh48live.org/schedule/images/20171214191500-5a28afa80cf2f18b3d034b23.jpg"
+    }
+  ],
+  "plot": "20171214-j4VgwCeSNsU.svg",
+  "peak_viewers": 349,
+  "peak_offset": 9256
+}
