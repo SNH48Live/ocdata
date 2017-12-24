@@ -1,0 +1,16 @@
+{
+  "video_id": "eC1UDxEE7WM",
+  "start_time": "2017-12-22T17:13:53+08:00",
+  "end_time": "2017-12-22T19:00:27+08:00",
+  "events": [
+    {
+      "datetime": "2017-12-22T17:25:00+08:00",
+      "title": "星梦Mini Live",
+      "subtitle": "本期成员：宋昕冉",
+      "thumbnail_url": "https://snh48live.org/schedule/images/20171222172500-5a3762c90cf20e42b9a93738.jpg"
+    }
+  ],
+  "plot": "20171222-eC1UDxEE7WM.svg",
+  "peak_viewers": 52,
+  "peak_offset": 4507
+}

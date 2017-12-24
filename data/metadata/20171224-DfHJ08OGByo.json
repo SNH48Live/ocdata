@@ -1,0 +1,16 @@
+{
+  "video_id": "DfHJ08OGByo",
+  "start_time": "2017-12-24T19:57:02+08:00",
+  "end_time": "2017-12-24T22:08:23+08:00",
+  "events": [
+    {
+      "datetime": "2017-12-24T18:45:00+08:00",
+      "title": "圣诞节特别公演",
+      "subtitle": "圣诞节主题公演",
+      "thumbnail_url": "https://snh48live.org/schedule/images/20171224184500-5a3224410cf25eac97fe52f9.jpg"
+    }
+  ],
+  "plot": "20171224-DfHJ08OGByo.svg",
+  "peak_viewers": 163,
+  "peak_offset": 6298
+}
